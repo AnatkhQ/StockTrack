@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a0a9c1f-f43c-4a8c-a295-381923029033" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/running.log" afterPath="$PROJECT_DIR$/logs/running.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/notice_email.py" afterPath="$PROJECT_DIR$/utils/notice_email.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,6 +42,16 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SQL/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -91,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notice_email.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="notice_email.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utils/notice_email.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -128,18 +136,6 @@
             <state relative-caret-position="407">
               <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadRun.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/ThreadRun.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="4" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-              <folding>
-                <element signature="e#14#30#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -234,6 +230,7 @@
         <option value="$PROJECT_DIR$/SQL/__init__.py" />
         <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/utils/notice_email.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -604,6 +601,14 @@
       <option name="presentableId" value="Default" />
       <updated>1564481652433</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix email">
+      <created>1564628300376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564628300376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -637,6 +642,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix email" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix email" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1286,6 +1295,14 @@
           <folding>
             <element signature="e#42#56#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
