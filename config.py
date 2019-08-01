@@ -15,3 +15,6 @@ EMAIL_CONFIG={
     'password':os.environ.get('epwd'),
     'from':os.environ.get('email'),
 }
+
+
+DEBUG=False

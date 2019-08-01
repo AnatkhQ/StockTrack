@@ -20,7 +20,7 @@ class StockThread(threading.Thread):
     def stop(self):
         self.stopped = True
         
-def main():
+def main(**kwargs):
     threads=[]
     for stock in Support_class:
         thread=StockThread(stock)

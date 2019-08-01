@@ -453,3 +453,2777 @@
 2019-08-01 10:58:11,516 logger INFO start 雪球
 2019-08-01 10:58:11,629 logger INFO end 雪球
 2019-08-01 10:58:11,629 logger INFO waiting:14.89
+2019-08-01 10:58:26,520 logger INFO start 雪球
+2019-08-01 10:58:26,650 logger INFO end 雪球
+2019-08-01 10:58:26,651 logger INFO waiting:14.87
+2019-08-01 10:58:41,522 logger INFO start 雪球
+2019-08-01 10:58:41,636 logger INFO end 雪球
+2019-08-01 10:58:41,636 logger INFO waiting:14.89
+2019-08-01 10:58:56,527 logger INFO start 雪球
+2019-08-01 10:58:56,649 logger INFO end 雪球
+2019-08-01 10:58:56,650 logger INFO waiting:14.88
+2019-08-01 10:59:11,531 logger INFO start 雪球
+2019-08-01 10:59:11,638 logger INFO end 雪球
+2019-08-01 10:59:11,638 logger INFO waiting:14.89
+2019-08-01 10:59:26,529 logger INFO start 雪球
+2019-08-01 10:59:26,641 logger INFO end 雪球
+2019-08-01 10:59:26,641 logger INFO waiting:14.89
+2019-08-01 10:59:41,531 logger INFO start 雪球
+2019-08-01 10:59:41,641 logger INFO end 雪球
+2019-08-01 10:59:41,642 logger INFO waiting:14.89
+2019-08-01 10:59:56,533 logger INFO start 雪球
+2019-08-01 10:59:56,640 logger INFO end 雪球
+2019-08-01 10:59:56,640 logger INFO waiting:14.89
+2019-08-01 11:00:11,532 logger INFO start 雪球
+2019-08-01 11:00:11,639 logger INFO end 雪球
+2019-08-01 11:00:11,640 logger INFO waiting:14.89
+2019-08-01 11:00:26,530 logger INFO start 雪球
+2019-08-01 11:00:26,642 logger INFO end 雪球
+2019-08-01 11:00:26,642 logger INFO waiting:14.89
+2019-08-01 11:00:41,534 logger INFO start 雪球
+2019-08-01 11:00:41,638 logger INFO end 雪球
+2019-08-01 11:00:41,638 logger INFO waiting:14.9
+2019-08-01 11:00:56,540 logger INFO start 雪球
+2019-08-01 11:00:56,671 logger INFO end 雪球
+2019-08-01 11:00:56,671 logger INFO waiting:14.87
+2019-08-01 11:01:11,542 logger INFO start 雪球
+2019-08-01 11:01:11,646 logger INFO end 雪球
+2019-08-01 11:01:11,646 logger INFO waiting:14.9
+2019-08-01 11:01:26,547 logger INFO start 雪球
+2019-08-01 11:01:26,656 logger INFO end 雪球
+2019-08-01 11:01:26,656 logger INFO waiting:14.89
+2019-08-01 11:01:41,548 logger INFO start 雪球
+2019-08-01 11:01:41,654 logger INFO end 雪球
+2019-08-01 11:01:41,654 logger INFO waiting:14.89
+2019-08-01 11:01:56,546 logger INFO start 雪球
+2019-08-01 11:01:56,654 logger INFO end 雪球
+2019-08-01 11:01:56,655 logger INFO waiting:14.89
+2019-08-01 11:02:11,547 logger INFO start 雪球
+2019-08-01 11:02:11,668 logger INFO end 雪球
+2019-08-01 11:02:11,668 logger INFO waiting:14.88
+2019-08-01 11:02:26,549 logger INFO start 雪球
+2019-08-01 11:02:26,657 logger INFO end 雪球
+2019-08-01 11:02:26,658 logger INFO waiting:14.89
+2019-08-01 11:02:41,549 logger INFO start 雪球
+2019-08-01 11:02:41,658 logger INFO end 雪球
+2019-08-01 11:02:41,658 logger INFO waiting:14.89
+2019-08-01 11:02:56,549 logger INFO start 雪球
+2019-08-01 11:02:56,680 logger INFO end 雪球
+2019-08-01 11:02:56,680 logger INFO waiting:14.87
+2019-08-01 11:03:11,552 logger INFO start 雪球
+2019-08-01 11:03:11,668 logger INFO end 雪球
+2019-08-01 11:03:11,668 logger INFO waiting:14.88
+2019-08-01 11:03:26,549 logger INFO start 雪球
+2019-08-01 11:03:26,649 logger INFO end 雪球
+2019-08-01 11:03:26,649 logger INFO waiting:14.9
+2019-08-01 11:03:41,551 logger INFO start 雪球
+2019-08-01 11:03:41,680 logger INFO end 雪球
+2019-08-01 11:03:41,680 logger INFO waiting:14.87
+2019-08-01 11:03:56,550 logger INFO start 雪球
+2019-08-01 11:03:56,659 logger INFO end 雪球
+2019-08-01 11:03:56,659 logger INFO waiting:14.89
+2019-08-01 11:04:11,550 logger INFO start 雪球
+2019-08-01 11:04:11,657 logger INFO end 雪球
+2019-08-01 11:04:11,657 logger INFO waiting:14.89
+2019-08-01 11:04:26,548 logger INFO start 雪球
+2019-08-01 11:04:26,657 logger INFO end 雪球
+2019-08-01 11:04:26,658 logger INFO waiting:14.89
+2019-08-01 11:04:41,549 logger INFO start 雪球
+2019-08-01 11:04:41,660 logger INFO end 雪球
+2019-08-01 11:04:41,660 logger INFO waiting:14.89
+2019-08-01 11:04:56,550 logger INFO start 雪球
+2019-08-01 11:04:56,658 logger INFO end 雪球
+2019-08-01 11:04:56,658 logger INFO waiting:14.89
+2019-08-01 11:05:11,549 logger INFO start 雪球
+2019-08-01 11:05:11,652 logger INFO end 雪球
+2019-08-01 11:05:11,652 logger INFO waiting:14.9
+2019-08-01 11:05:26,553 logger INFO start 雪球
+2019-08-01 11:05:26,664 logger INFO end 雪球
+2019-08-01 11:05:26,664 logger INFO waiting:14.89
+2019-08-01 11:05:41,556 logger INFO start 雪球
+2019-08-01 11:05:41,661 logger INFO end 雪球
+2019-08-01 11:05:41,661 logger INFO waiting:14.89
+2019-08-01 11:05:56,551 logger INFO start 雪球
+2019-08-01 11:05:56,660 logger INFO end 雪球
+2019-08-01 11:05:56,660 logger INFO waiting:14.89
+2019-08-01 11:06:11,550 logger INFO start 雪球
+2019-08-01 11:06:11,674 logger INFO end 雪球
+2019-08-01 11:06:11,674 logger INFO waiting:14.88
+2019-08-01 11:06:26,555 logger INFO start 雪球
+2019-08-01 11:06:26,661 logger INFO end 雪球
+2019-08-01 11:06:26,661 logger INFO waiting:14.89
+2019-08-01 11:06:41,553 logger INFO start 雪球
+2019-08-01 11:06:41,658 logger INFO end 雪球
+2019-08-01 11:06:41,658 logger INFO waiting:14.89
+2019-08-01 11:06:56,550 logger INFO start 雪球
+2019-08-01 11:06:56,656 logger INFO end 雪球
+2019-08-01 11:06:56,656 logger INFO waiting:14.89
+2019-08-01 11:07:11,547 logger INFO start 雪球
+2019-08-01 11:07:11,649 logger INFO end 雪球
+2019-08-01 11:07:11,649 logger INFO waiting:14.9
+2019-08-01 11:07:26,550 logger INFO start 雪球
+2019-08-01 11:07:26,658 logger INFO end 雪球
+2019-08-01 11:07:26,658 logger INFO waiting:14.89
+2019-08-01 11:07:41,549 logger INFO start 雪球
+2019-08-01 11:07:41,658 logger INFO end 雪球
+2019-08-01 11:07:41,658 logger INFO waiting:14.89
+2019-08-01 11:07:56,550 logger INFO start 雪球
+2019-08-01 11:07:56,664 logger INFO end 雪球
+2019-08-01 11:07:56,664 logger INFO waiting:14.89
+2019-08-01 11:08:11,556 logger INFO start 雪球
+2019-08-01 11:08:11,663 logger INFO end 雪球
+2019-08-01 11:08:11,663 logger INFO waiting:14.89
+2019-08-01 11:08:26,555 logger INFO start 雪球
+2019-08-01 11:08:26,660 logger INFO end 雪球
+2019-08-01 11:08:26,661 logger INFO waiting:14.89
+2019-08-01 11:08:41,552 logger INFO start 雪球
+2019-08-01 11:08:41,670 logger INFO end 雪球
+2019-08-01 11:08:41,671 logger INFO waiting:14.88
+2019-08-01 11:08:56,552 logger INFO start 雪球
+2019-08-01 11:08:56,662 logger INFO end 雪球
+2019-08-01 11:08:56,662 logger INFO waiting:14.89
+2019-08-01 11:09:11,553 logger INFO start 雪球
+2019-08-01 11:09:11,661 logger INFO end 雪球
+2019-08-01 11:09:11,661 logger INFO waiting:14.89
+2019-08-01 11:09:26,552 logger INFO start 雪球
+2019-08-01 11:09:26,658 logger INFO end 雪球
+2019-08-01 11:09:26,658 logger INFO waiting:14.89
+2019-08-01 11:09:41,549 logger INFO start 雪球
+2019-08-01 11:09:41,658 logger INFO end 雪球
+2019-08-01 11:09:41,658 logger INFO waiting:14.89
+2019-08-01 11:09:56,549 logger INFO start 雪球
+2019-08-01 11:09:56,655 logger INFO end 雪球
+2019-08-01 11:09:56,656 logger INFO waiting:14.89
+2019-08-01 11:10:11,547 logger INFO start 雪球
+2019-08-01 11:10:11,647 logger INFO end 雪球
+2019-08-01 11:10:11,647 logger INFO waiting:14.9
+2019-08-01 11:10:26,548 logger INFO start 雪球
+2019-08-01 11:10:26,654 logger INFO end 雪球
+2019-08-01 11:10:26,654 logger INFO waiting:14.89
+2019-08-01 11:10:41,546 logger INFO start 雪球
+2019-08-01 11:10:41,665 logger INFO end 雪球
+2019-08-01 11:10:41,665 logger INFO waiting:14.88
+2019-08-01 11:10:56,546 logger INFO start 雪球
+2019-08-01 11:10:56,751 logger INFO end 雪球
+2019-08-01 11:10:56,751 logger INFO waiting:14.79
+2019-08-01 11:11:11,543 logger INFO start 雪球
+2019-08-01 11:11:12,396 logger INFO end 雪球
+2019-08-01 11:11:12,396 logger INFO waiting:14.15
+2019-08-01 11:11:26,547 logger INFO start 雪球
+2019-08-01 11:11:26,661 logger INFO end 雪球
+2019-08-01 11:11:26,662 logger INFO waiting:14.89
+2019-08-01 11:11:41,552 logger INFO start 雪球
+2019-08-01 11:11:41,671 logger INFO end 雪球
+2019-08-01 11:11:41,671 logger INFO waiting:14.88
+2019-08-01 11:11:56,552 logger INFO start 雪球
+2019-08-01 11:11:56,671 logger INFO end 雪球
+2019-08-01 11:11:56,671 logger INFO waiting:14.88
+2019-08-01 11:12:11,552 logger INFO start 雪球
+2019-08-01 11:12:11,697 logger INFO end 雪球
+2019-08-01 11:12:11,697 logger INFO waiting:14.86
+2019-08-01 11:12:26,558 logger INFO start 雪球
+2019-08-01 11:12:26,669 logger INFO end 雪球
+2019-08-01 11:12:26,669 logger INFO waiting:14.89
+2019-08-01 11:12:41,560 logger INFO start 雪球
+2019-08-01 11:12:41,662 logger INFO end 雪球
+2019-08-01 11:12:41,663 logger INFO waiting:14.9
+2019-08-01 11:12:56,564 logger INFO start 雪球
+2019-08-01 11:12:56,706 logger INFO end 雪球
+2019-08-01 11:12:56,706 logger INFO waiting:14.86
+2019-08-01 11:13:11,568 logger INFO start 雪球
+2019-08-01 11:13:11,695 logger INFO end 雪球
+2019-08-01 11:13:11,695 logger INFO waiting:14.87
+2019-08-01 11:13:26,566 logger INFO start 雪球
+2019-08-01 11:13:26,685 logger INFO end 雪球
+2019-08-01 11:13:26,685 logger INFO waiting:14.88
+2019-08-01 11:13:41,566 logger INFO start 雪球
+2019-08-01 11:13:41,680 logger INFO end 雪球
+2019-08-01 11:13:41,680 logger INFO waiting:14.89
+2019-08-01 11:13:56,571 logger INFO start 雪球
+2019-08-01 11:13:56,679 logger INFO end 雪球
+2019-08-01 11:13:56,680 logger INFO waiting:14.89
+2019-08-01 11:18:07,744 logger INFO start 雪球
+2019-08-01 11:18:07,744 logger INFO Thread-1 start 雪球
+2019-08-01 11:18:07,959 logger INFO end 雪球
+2019-08-01 11:18:07,959 logger INFO waiting:14.79
+2019-08-01 11:18:39,777 logger INFO start 雪球
+2019-08-01 11:18:39,777 logger INFO Thread-1 start 雪球
+2019-08-01 11:18:39,962 logger INFO end 雪球
+2019-08-01 11:18:39,962 logger INFO waiting:14.82
+2019-08-01 11:19:06,295 logger INFO start 雪球
+2019-08-01 11:19:06,295 logger INFO Thread-1 start 雪球
+2019-08-01 11:19:06,474 logger INFO end 雪球
+2019-08-01 11:19:06,474 logger INFO waiting:14.82
+2019-08-01 11:22:06,650 logger INFO start 雪球
+2019-08-01 11:22:06,651 logger INFO Thread-1 start 雪球
+2019-08-01 11:22:06,893 logger INFO end 雪球
+2019-08-01 11:22:06,893 logger INFO waiting:14.76
+2019-08-01 11:22:49,839 logger INFO start 雪球
+2019-08-01 11:22:49,839 logger INFO Thread-1 start 雪球
+2019-08-01 11:22:50,038 logger INFO end 雪球
+2019-08-01 11:22:50,038 logger INFO waiting:14.8
+2019-08-01 11:23:04,839 logger INFO start 雪球
+2019-08-01 11:23:04,962 logger INFO end 雪球
+2019-08-01 11:23:04,962 logger INFO waiting:14.88
+2019-08-01 11:23:19,843 logger INFO start 雪球
+2019-08-01 11:23:20,468 logger INFO end 雪球
+2019-08-01 11:23:20,469 logger INFO waiting:14.38
+2019-08-01 11:23:34,850 logger INFO start 雪球
+2019-08-01 11:23:35,533 logger INFO end 雪球
+2019-08-01 11:23:35,533 logger INFO waiting:14.32
+2019-08-01 11:23:49,854 logger INFO start 雪球
+2019-08-01 11:23:49,975 logger INFO end 雪球
+2019-08-01 11:23:49,976 logger INFO waiting:14.88
+2019-08-01 11:24:04,858 logger INFO start 雪球
+2019-08-01 11:24:05,063 logger INFO end 雪球
+2019-08-01 11:24:05,065 logger INFO waiting:14.79
+2019-08-01 11:24:19,857 logger INFO start 雪球
+2019-08-01 11:24:19,961 logger INFO end 雪球
+2019-08-01 11:24:19,961 logger INFO waiting:14.9
+2019-08-01 11:24:34,863 logger INFO start 雪球
+2019-08-01 11:24:34,969 logger INFO end 雪球
+2019-08-01 11:24:34,969 logger INFO waiting:14.89
+2019-08-01 11:24:49,861 logger INFO start 雪球
+2019-08-01 11:24:50,143 logger INFO end 雪球
+2019-08-01 11:24:50,144 logger INFO waiting:14.72
+2019-08-01 11:25:04,865 logger INFO start 雪球
+2019-08-01 11:25:05,893 logger INFO end 雪球
+2019-08-01 11:25:05,894 logger INFO waiting:13.97
+2019-08-01 11:25:19,865 logger INFO start 雪球
+2019-08-01 11:25:20,000 logger INFO end 雪球
+2019-08-01 11:25:20,001 logger INFO waiting:14.86
+2019-08-01 11:25:34,862 logger INFO start 雪球
+2019-08-01 11:25:34,956 logger INFO end 雪球
+2019-08-01 11:25:34,956 logger INFO waiting:14.91
+2019-08-01 11:25:49,867 logger INFO start 雪球
+2019-08-01 11:25:50,052 logger INFO end 雪球
+2019-08-01 11:25:50,053 logger INFO waiting:14.82
+2019-08-01 11:26:04,873 logger INFO start 雪球
+2019-08-01 11:26:04,988 logger INFO end 雪球
+2019-08-01 11:26:04,989 logger INFO waiting:14.89
+2019-08-01 11:26:19,880 logger INFO start 雪球
+2019-08-01 11:26:19,995 logger INFO end 雪球
+2019-08-01 11:26:19,995 logger INFO waiting:14.88
+2019-08-01 11:26:34,877 logger INFO start 雪球
+2019-08-01 11:26:35,013 logger INFO end 雪球
+2019-08-01 11:26:35,016 logger INFO waiting:14.86
+2019-08-01 11:26:48,350 logger INFO start 雪球
+2019-08-01 11:26:48,351 logger INFO Thread-1 start 雪球
+2019-08-01 11:26:49,878 logger INFO start 雪球
+2019-08-01 11:26:50,057 logger INFO end 雪球
+2019-08-01 11:26:50,057 logger INFO waiting:13.29
+2019-08-01 11:26:50,071 logger INFO end 雪球
+2019-08-01 11:26:50,072 logger INFO waiting:14.81
+2019-08-01 11:27:04,883 logger INFO start 雪球
+2019-08-01 11:27:05,095 logger INFO end 雪球
+2019-08-01 11:27:05,096 logger INFO waiting:14.79
+2019-08-01 11:27:19,888 logger INFO start 雪球
+2019-08-01 11:27:19,993 logger INFO end 雪球
+2019-08-01 11:27:19,994 logger INFO waiting:14.89
+2019-08-01 11:27:34,885 logger INFO start 雪球
+2019-08-01 11:27:35,443 logger INFO end 雪球
+2019-08-01 11:27:35,444 logger INFO waiting:14.44
+2019-08-01 11:27:49,885 logger INFO start 雪球
+2019-08-01 11:27:49,995 logger INFO end 雪球
+2019-08-01 11:27:49,996 logger INFO waiting:14.89
+2019-08-01 11:28:04,887 logger INFO start 雪球
+2019-08-01 11:28:05,001 logger INFO end 雪球
+2019-08-01 11:28:05,001 logger INFO waiting:14.89
+2019-08-01 11:28:19,893 logger INFO start 雪球
+2019-08-01 11:28:20,000 logger INFO end 雪球
+2019-08-01 11:28:20,039 logger INFO waiting:14.9
+2019-08-01 11:28:34,941 logger INFO start 雪球
+2019-08-01 11:28:35,046 logger INFO end 雪球
+2019-08-01 11:28:35,047 logger INFO waiting:14.89
+2019-08-01 11:28:49,938 logger INFO start 雪球
+2019-08-01 11:28:50,040 logger INFO end 雪球
+2019-08-01 11:28:50,042 logger INFO waiting:14.9
+2019-08-01 11:29:04,944 logger INFO start 雪球
+2019-08-01 11:29:05,060 logger INFO end 雪球
+2019-08-01 11:29:05,061 logger INFO waiting:14.88
+2019-08-01 11:29:19,943 logger INFO start 雪球
+2019-08-01 11:29:20,074 logger INFO end 雪球
+2019-08-01 11:29:20,075 logger INFO waiting:14.87
+2019-08-01 11:29:34,947 logger INFO start 雪球
+2019-08-01 11:29:35,052 logger INFO end 雪球
+2019-08-01 11:29:35,052 logger INFO waiting:14.89
+2019-08-01 11:29:49,944 logger INFO start 雪球
+2019-08-01 11:29:50,050 logger INFO end 雪球
+2019-08-01 11:29:50,050 logger INFO waiting:14.89
+2019-08-01 11:30:04,941 logger INFO start 雪球
+2019-08-01 11:30:05,086 logger INFO end 雪球
+2019-08-01 11:30:05,087 logger INFO waiting:14.85
+2019-08-01 11:30:19,938 logger INFO start 雪球
+2019-08-01 11:30:20,046 logger INFO end 雪球
+2019-08-01 11:30:20,046 logger INFO waiting:14.89
+2019-08-01 11:30:34,938 logger INFO start 雪球
+2019-08-01 11:30:35,048 logger INFO end 雪球
+2019-08-01 11:30:35,048 logger INFO waiting:14.89
+2019-08-01 11:30:49,939 logger INFO start 雪球
+2019-08-01 11:30:50,072 logger INFO end 雪球
+2019-08-01 11:30:50,073 logger INFO waiting:14.87
+2019-08-01 11:31:04,944 logger INFO start 雪球
+2019-08-01 11:31:05,070 logger INFO end 雪球
+2019-08-01 11:31:05,074 logger INFO waiting:14.87
+2019-08-01 11:31:19,946 logger INFO start 雪球
+2019-08-01 11:31:20,047 logger INFO end 雪球
+2019-08-01 11:31:20,049 logger INFO waiting:14.9
+2019-08-01 11:31:34,954 logger INFO start 雪球
+2019-08-01 11:31:35,057 logger INFO end 雪球
+2019-08-01 11:31:35,057 logger INFO waiting:14.9
+2019-08-01 11:31:49,958 logger INFO start 雪球
+2019-08-01 11:31:50,061 logger INFO end 雪球
+2019-08-01 11:31:50,061 logger INFO waiting:14.9
+2019-08-01 11:32:04,963 logger INFO start 雪球
+2019-08-01 11:32:05,270 logger INFO end 雪球
+2019-08-01 11:32:05,271 logger INFO waiting:14.69
+2019-08-01 11:32:19,961 logger INFO start 雪球
+2019-08-01 11:32:20,067 logger INFO end 雪球
+2019-08-01 11:32:20,067 logger INFO waiting:14.89
+2019-08-01 11:32:34,960 logger INFO start 雪球
+2019-08-01 11:32:35,064 logger INFO end 雪球
+2019-08-01 11:32:35,068 logger INFO waiting:14.9
+2019-08-01 11:32:49,972 logger INFO start 雪球
+2019-08-01 11:32:50,073 logger INFO end 雪球
+2019-08-01 11:32:50,073 logger INFO waiting:14.9
+2019-08-01 11:33:04,974 logger INFO start 雪球
+2019-08-01 11:33:05,072 logger INFO end 雪球
+2019-08-01 11:33:05,072 logger INFO waiting:14.9
+2019-08-01 11:33:19,974 logger INFO start 雪球
+2019-08-01 11:33:20,080 logger INFO end 雪球
+2019-08-01 11:33:20,080 logger INFO waiting:14.89
+2019-08-01 11:33:34,975 logger INFO start 雪球
+2019-08-01 11:33:35,099 logger INFO end 雪球
+2019-08-01 11:33:35,100 logger INFO waiting:14.89
+2019-08-01 11:33:49,991 logger INFO start 雪球
+2019-08-01 11:33:50,099 logger INFO end 雪球
+2019-08-01 11:33:50,099 logger INFO waiting:14.89
+2019-08-01 11:34:04,990 logger INFO start 雪球
+2019-08-01 11:34:05,096 logger INFO end 雪球
+2019-08-01 11:34:05,097 logger INFO waiting:14.89
+2019-08-01 11:34:19,989 logger INFO start 雪球
+2019-08-01 11:34:20,098 logger INFO end 雪球
+2019-08-01 11:34:20,098 logger INFO waiting:14.89
+2019-08-01 11:34:34,990 logger INFO start 雪球
+2019-08-01 11:34:35,102 logger INFO end 雪球
+2019-08-01 11:34:35,103 logger INFO waiting:14.89
+2019-08-01 11:34:49,994 logger INFO start 雪球
+2019-08-01 11:34:50,100 logger INFO end 雪球
+2019-08-01 11:34:50,101 logger INFO waiting:14.89
+2019-08-01 11:35:04,992 logger INFO start 雪球
+2019-08-01 11:35:05,093 logger INFO end 雪球
+2019-08-01 11:35:05,094 logger INFO waiting:14.9
+2019-08-01 11:35:19,994 logger INFO start 雪球
+2019-08-01 11:35:20,097 logger INFO end 雪球
+2019-08-01 11:35:20,098 logger INFO waiting:14.9
+2019-08-01 11:35:34,998 logger INFO start 雪球
+2019-08-01 11:35:35,099 logger INFO end 雪球
+2019-08-01 11:35:35,100 logger INFO waiting:14.9
+2019-08-01 11:35:50,001 logger INFO start 雪球
+2019-08-01 11:35:50,107 logger INFO end 雪球
+2019-08-01 11:35:50,108 logger INFO waiting:14.9
+2019-08-01 11:36:05,010 logger INFO start 雪球
+2019-08-01 11:36:05,129 logger INFO end 雪球
+2019-08-01 11:36:05,129 logger INFO waiting:14.89
+2019-08-01 11:36:20,021 logger INFO start 雪球
+2019-08-01 11:36:20,129 logger INFO end 雪球
+2019-08-01 11:36:20,130 logger INFO waiting:14.89
+2019-08-01 11:36:35,020 logger INFO start 雪球
+2019-08-01 11:36:35,120 logger INFO end 雪球
+2019-08-01 11:36:35,120 logger INFO waiting:14.9
+2019-08-01 11:36:50,021 logger INFO start 雪球
+2019-08-01 11:36:50,171 logger INFO end 雪球
+2019-08-01 11:36:50,172 logger INFO waiting:14.85
+2019-08-01 11:37:05,023 logger INFO start 雪球
+2019-08-01 11:37:05,141 logger INFO end 雪球
+2019-08-01 11:37:05,142 logger INFO waiting:14.88
+2019-08-01 11:37:20,023 logger INFO start 雪球
+2019-08-01 11:37:20,124 logger INFO end 雪球
+2019-08-01 11:37:20,125 logger INFO waiting:14.9
+2019-08-01 11:37:35,026 logger INFO start 雪球
+2019-08-01 11:37:35,145 logger INFO end 雪球
+2019-08-01 11:37:35,145 logger INFO waiting:14.88
+2019-08-01 11:37:50,026 logger INFO start 雪球
+2019-08-01 11:37:50,161 logger INFO end 雪球
+2019-08-01 11:37:50,161 logger INFO waiting:14.87
+2019-08-01 11:38:05,032 logger INFO start 雪球
+2019-08-01 11:38:05,133 logger INFO end 雪球
+2019-08-01 11:38:05,133 logger INFO waiting:14.9
+2019-08-01 11:38:20,035 logger INFO start 雪球
+2019-08-01 11:38:20,181 logger INFO end 雪球
+2019-08-01 11:38:20,182 logger INFO waiting:14.85
+2019-08-01 11:38:35,032 logger INFO start 雪球
+2019-08-01 11:38:35,134 logger INFO end 雪球
+2019-08-01 11:38:35,134 logger INFO waiting:14.9
+2019-08-01 11:38:50,034 logger INFO start 雪球
+2019-08-01 11:38:50,157 logger INFO end 雪球
+2019-08-01 11:38:50,158 logger INFO waiting:14.88
+2019-08-01 11:39:05,038 logger INFO start 雪球
+2019-08-01 11:39:05,141 logger INFO end 雪球
+2019-08-01 11:39:05,142 logger INFO waiting:14.9
+2019-08-01 11:39:20,043 logger INFO start 雪球
+2019-08-01 11:39:20,155 logger INFO end 雪球
+2019-08-01 11:39:20,155 logger INFO waiting:14.89
+2019-08-01 11:39:35,046 logger INFO start 雪球
+2019-08-01 11:39:35,151 logger INFO end 雪球
+2019-08-01 11:39:35,153 logger INFO waiting:14.89
+2019-08-01 11:39:50,045 logger INFO start 雪球
+2019-08-01 11:39:50,140 logger INFO end 雪球
+2019-08-01 11:39:50,141 logger INFO waiting:14.9
+2019-08-01 11:40:05,043 logger INFO start 雪球
+2019-08-01 11:40:05,146 logger INFO end 雪球
+2019-08-01 11:40:05,147 logger INFO waiting:14.9
+2019-08-01 11:40:20,047 logger INFO start 雪球
+2019-08-01 11:40:20,152 logger INFO end 雪球
+2019-08-01 11:40:20,152 logger INFO waiting:14.9
+2019-08-01 11:40:35,053 logger INFO start 雪球
+2019-08-01 11:40:35,157 logger INFO end 雪球
+2019-08-01 11:40:35,158 logger INFO waiting:14.9
+2019-08-01 11:40:50,061 logger INFO start 雪球
+2019-08-01 11:40:50,164 logger INFO end 雪球
+2019-08-01 11:40:50,165 logger INFO waiting:14.9
+2019-08-01 11:41:05,066 logger INFO start 雪球
+2019-08-01 11:41:05,176 logger INFO end 雪球
+2019-08-01 11:41:05,176 logger INFO waiting:14.89
+2019-08-01 11:41:20,067 logger INFO start 雪球
+2019-08-01 11:41:20,181 logger INFO end 雪球
+2019-08-01 11:41:20,182 logger INFO waiting:14.89
+2019-08-01 11:41:35,073 logger INFO start 雪球
+2019-08-01 11:41:35,180 logger INFO end 雪球
+2019-08-01 11:41:35,181 logger INFO waiting:14.89
+2019-08-01 11:41:50,072 logger INFO start 雪球
+2019-08-01 11:41:50,176 logger INFO end 雪球
+2019-08-01 11:41:50,177 logger INFO waiting:14.9
+2019-08-01 11:42:05,078 logger INFO start 雪球
+2019-08-01 11:42:05,168 logger INFO end 雪球
+2019-08-01 11:42:05,168 logger INFO waiting:14.91
+2019-08-01 11:42:20,080 logger INFO start 雪球
+2019-08-01 11:42:20,180 logger INFO end 雪球
+2019-08-01 11:42:20,180 logger INFO waiting:14.9
+2019-08-01 11:42:35,082 logger INFO start 雪球
+2019-08-01 11:42:35,183 logger INFO end 雪球
+2019-08-01 11:42:35,184 logger INFO waiting:14.9
+2019-08-01 11:42:50,085 logger INFO start 雪球
+2019-08-01 11:42:50,472 logger INFO end 雪球
+2019-08-01 11:42:50,472 logger INFO waiting:14.61
+2019-08-01 11:43:05,083 logger INFO start 雪球
+2019-08-01 11:43:05,194 logger INFO end 雪球
+2019-08-01 11:43:05,194 logger INFO waiting:14.89
+2019-08-01 11:43:20,086 logger INFO start 雪球
+2019-08-01 11:43:20,211 logger INFO end 雪球
+2019-08-01 11:43:20,212 logger INFO waiting:14.87
+2019-08-01 11:43:35,084 logger INFO start 雪球
+2019-08-01 11:43:35,183 logger INFO end 雪球
+2019-08-01 11:43:35,184 logger INFO waiting:14.9
+2019-08-01 11:43:50,084 logger INFO start 雪球
+2019-08-01 11:43:50,416 logger INFO end 雪球
+2019-08-01 11:43:50,417 logger INFO waiting:14.67
+2019-08-01 11:44:05,088 logger INFO start 雪球
+2019-08-01 11:44:05,439 logger INFO end 雪球
+2019-08-01 11:44:05,439 logger INFO waiting:14.65
+2019-08-01 11:44:20,090 logger INFO start 雪球
+2019-08-01 11:44:20,192 logger INFO end 雪球
+2019-08-01 11:44:20,192 logger INFO waiting:14.9
+2019-08-01 11:44:35,094 logger INFO start 雪球
+2019-08-01 11:44:35,196 logger INFO end 雪球
+2019-08-01 11:44:35,196 logger INFO waiting:14.9
+2019-08-01 11:44:50,097 logger INFO start 雪球
+2019-08-01 11:44:50,200 logger INFO end 雪球
+2019-08-01 11:44:50,200 logger INFO waiting:14.9
+2019-08-01 11:45:05,101 logger INFO start 雪球
+2019-08-01 11:45:05,194 logger INFO end 雪球
+2019-08-01 11:45:05,194 logger INFO waiting:14.91
+2019-08-01 11:45:20,106 logger INFO start 雪球
+2019-08-01 11:45:20,210 logger INFO end 雪球
+2019-08-01 11:45:20,210 logger INFO waiting:14.9
+2019-08-01 11:45:35,111 logger INFO start 雪球
+2019-08-01 11:45:35,217 logger INFO end 雪球
+2019-08-01 11:45:35,218 logger INFO waiting:14.89
+2019-08-01 11:45:50,109 logger INFO start 雪球
+2019-08-01 11:45:50,200 logger INFO end 雪球
+2019-08-01 11:45:50,201 logger INFO waiting:14.91
+2019-08-01 11:46:05,113 logger INFO start 雪球
+2019-08-01 11:46:05,214 logger INFO end 雪球
+2019-08-01 11:46:05,215 logger INFO waiting:14.9
+2019-08-01 11:46:20,116 logger INFO start 雪球
+2019-08-01 11:46:20,217 logger INFO end 雪球
+2019-08-01 11:46:20,218 logger INFO waiting:14.9
+2019-08-01 11:46:35,119 logger INFO start 雪球
+2019-08-01 11:46:35,216 logger INFO end 雪球
+2019-08-01 11:46:35,216 logger INFO waiting:14.9
+2019-08-01 11:46:50,119 logger INFO start 雪球
+2019-08-01 11:46:50,220 logger INFO end 雪球
+2019-08-01 11:46:50,220 logger INFO waiting:14.9
+2019-08-01 11:47:05,121 logger INFO start 雪球
+2019-08-01 11:47:05,302 logger INFO end 雪球
+2019-08-01 11:47:05,302 logger INFO waiting:14.82
+2019-08-01 11:47:20,124 logger INFO start 雪球
+2019-08-01 11:47:20,227 logger INFO end 雪球
+2019-08-01 11:47:20,227 logger INFO waiting:14.9
+2019-08-01 11:47:35,129 logger INFO start 雪球
+2019-08-01 11:47:35,232 logger INFO end 雪球
+2019-08-01 11:47:35,233 logger INFO waiting:14.9
+2019-08-01 11:47:50,134 logger INFO start 雪球
+2019-08-01 11:47:50,331 logger INFO end 雪球
+2019-08-01 11:47:50,331 logger INFO waiting:14.8
+2019-08-01 11:48:05,133 logger INFO start 雪球
+2019-08-01 11:48:05,307 logger INFO end 雪球
+2019-08-01 11:48:05,307 logger INFO waiting:14.83
+2019-08-01 11:48:20,139 logger INFO start 雪球
+2019-08-01 11:48:20,309 logger INFO end 雪球
+2019-08-01 11:48:20,309 logger INFO waiting:14.83
+2019-08-01 11:48:35,140 logger INFO start 雪球
+2019-08-01 11:48:35,239 logger INFO end 雪球
+2019-08-01 11:48:35,240 logger INFO waiting:14.9
+2019-08-01 11:48:50,141 logger INFO start 雪球
+2019-08-01 11:48:50,246 logger INFO end 雪球
+2019-08-01 11:48:50,247 logger INFO waiting:14.89
+2019-08-01 11:49:05,141 logger INFO start 雪球
+2019-08-01 11:49:05,341 logger INFO end 雪球
+2019-08-01 11:49:05,341 logger INFO waiting:14.8
+2019-08-01 11:49:20,143 logger INFO start 雪球
+2019-08-01 11:49:20,242 logger INFO end 雪球
+2019-08-01 11:49:20,242 logger INFO waiting:14.9
+2019-08-01 11:49:35,143 logger INFO start 雪球
+2019-08-01 11:49:35,248 logger INFO end 雪球
+2019-08-01 11:49:35,248 logger INFO waiting:14.9
+2019-08-01 11:49:50,149 logger INFO start 雪球
+2019-08-01 11:49:50,255 logger INFO end 雪球
+2019-08-01 11:49:50,255 logger INFO waiting:14.89
+2019-08-01 11:50:05,146 logger INFO start 雪球
+2019-08-01 11:50:05,240 logger INFO end 雪球
+2019-08-01 11:50:05,241 logger INFO waiting:14.91
+2019-08-01 11:50:20,152 logger INFO start 雪球
+2019-08-01 11:50:20,248 logger INFO end 雪球
+2019-08-01 11:50:20,248 logger INFO waiting:14.9
+2019-08-01 11:50:35,150 logger INFO start 雪球
+2019-08-01 11:50:35,256 logger INFO end 雪球
+2019-08-01 11:50:35,256 logger INFO waiting:14.89
+2019-08-01 11:50:50,148 logger INFO start 雪球
+2019-08-01 11:50:50,256 logger INFO end 雪球
+2019-08-01 11:50:50,256 logger INFO waiting:14.89
+2019-08-01 11:51:05,147 logger INFO start 雪球
+2019-08-01 11:51:05,252 logger INFO end 雪球
+2019-08-01 11:51:05,252 logger INFO waiting:14.9
+2019-08-01 11:51:20,153 logger INFO start 雪球
+2019-08-01 11:51:20,262 logger INFO end 雪球
+2019-08-01 11:51:20,262 logger INFO waiting:14.89
+2019-08-01 11:51:35,153 logger INFO start 雪球
+2019-08-01 11:51:35,256 logger INFO end 雪球
+2019-08-01 11:51:35,256 logger INFO waiting:14.9
+2019-08-01 11:51:50,158 logger INFO start 雪球
+2019-08-01 11:51:50,256 logger INFO end 雪球
+2019-08-01 11:51:50,256 logger INFO waiting:14.9
+2019-08-01 11:52:05,157 logger INFO start 雪球
+2019-08-01 11:52:05,268 logger INFO end 雪球
+2019-08-01 11:52:05,269 logger INFO waiting:14.89
+2019-08-01 11:52:09,160 logger INFO start 雪球
+2019-08-01 11:52:09,160 logger INFO Thread-1 start 雪球
+2019-08-01 11:52:09,333 logger INFO end 雪球
+2019-08-01 11:52:09,333 logger INFO waiting:14.83
+2019-08-01 11:52:20,160 logger INFO start 雪球
+2019-08-01 11:52:20,267 logger INFO end 雪球
+2019-08-01 11:52:20,267 logger INFO waiting:14.89
+2019-08-01 11:52:24,165 logger INFO start 雪球
+2019-08-01 11:52:24,261 logger INFO end 雪球
+2019-08-01 11:52:24,262 logger INFO waiting:14.9
+2019-08-01 11:52:35,158 logger INFO start 雪球
+2019-08-01 11:52:35,260 logger INFO end 雪球
+2019-08-01 11:52:35,260 logger INFO waiting:14.9
+2019-08-01 11:52:39,163 logger INFO start 雪球
+2019-08-01 11:52:39,267 logger INFO end 雪球
+2019-08-01 11:52:39,267 logger INFO waiting:14.9
+2019-08-01 11:52:50,163 logger INFO start 雪球
+2019-08-01 11:52:50,300 logger INFO end 雪球
+2019-08-01 11:52:50,300 logger INFO waiting:14.86
+2019-08-01 11:52:54,168 logger INFO start 雪球
+2019-08-01 11:52:54,282 logger INFO end 雪球
+2019-08-01 11:52:54,282 logger INFO waiting:14.89
+2019-08-01 11:53:05,161 logger INFO start 雪球
+2019-08-01 11:53:05,571 logger INFO end 雪球
+2019-08-01 11:53:05,571 logger INFO waiting:14.59
+2019-08-01 11:53:09,248 logger INFO start 雪球
+2019-08-01 11:53:09,248 logger INFO Thread-1 start 雪球
+2019-08-01 11:53:09,437 logger INFO end 雪球
+2019-08-01 11:53:09,437 logger INFO waiting:14.81
+2019-08-01 11:53:20,163 logger INFO start 雪球
+2019-08-01 11:53:20,268 logger INFO end 雪球
+2019-08-01 11:53:20,268 logger INFO waiting:14.89
+2019-08-01 11:53:24,389 logger INFO start 雪球
+2019-08-01 11:53:24,389 logger INFO Thread-1 start 雪球
+2019-08-01 11:53:24,585 logger INFO end 雪球
+2019-08-01 11:53:24,585 logger INFO waiting:14.8
+2019-08-01 11:53:35,160 logger INFO start 雪球
+2019-08-01 11:53:35,262 logger INFO end 雪球
+2019-08-01 11:53:35,262 logger INFO waiting:14.9
+2019-08-01 11:53:39,386 logger INFO start 雪球
+2019-08-01 11:53:39,489 logger INFO end 雪球
+2019-08-01 11:53:39,490 logger INFO waiting:14.9
+2019-08-01 11:53:50,164 logger INFO start 雪球
+2019-08-01 11:53:50,272 logger INFO end 雪球
+2019-08-01 11:53:50,272 logger INFO waiting:14.89
+2019-08-01 11:53:54,390 logger INFO start 雪球
+2019-08-01 11:53:54,478 logger INFO end 雪球
+2019-08-01 11:53:54,478 logger INFO waiting:14.91
+2019-08-01 11:54:05,164 logger INFO start 雪球
+2019-08-01 11:54:05,266 logger INFO end 雪球
+2019-08-01 11:54:05,267 logger INFO waiting:14.9
+2019-08-01 11:54:09,389 logger INFO start 雪球
+2019-08-01 11:54:09,488 logger INFO end 雪球
+2019-08-01 11:54:09,488 logger INFO waiting:14.9
+2019-08-01 11:54:20,168 logger INFO start 雪球
+2019-08-01 11:54:20,272 logger INFO end 雪球
+2019-08-01 11:54:20,273 logger INFO waiting:14.9
+2019-08-01 11:54:24,390 logger INFO start 雪球
+2019-08-01 11:54:24,507 logger INFO end 雪球
+2019-08-01 11:54:24,507 logger INFO waiting:14.88
+2019-08-01 11:54:35,174 logger INFO start 雪球
+2019-08-01 11:54:35,291 logger INFO end 雪球
+2019-08-01 11:54:35,291 logger INFO waiting:14.88
+2019-08-01 11:54:39,388 logger INFO start 雪球
+2019-08-01 11:54:39,487 logger INFO end 雪球
+2019-08-01 11:54:39,487 logger INFO waiting:14.9
+2019-08-01 11:54:50,173 logger INFO start 雪球
+2019-08-01 11:54:50,298 logger INFO end 雪球
+2019-08-01 11:54:50,298 logger INFO waiting:14.87
+2019-08-01 11:54:54,388 logger INFO start 雪球
+2019-08-01 11:54:54,484 logger INFO end 雪球
+2019-08-01 11:54:54,484 logger INFO waiting:14.9
+2019-08-01 11:55:05,170 logger INFO start 雪球
+2019-08-01 11:55:05,279 logger INFO end 雪球
+2019-08-01 11:55:05,279 logger INFO waiting:14.89
+2019-08-01 11:55:09,386 logger INFO start 雪球
+2019-08-01 11:55:09,487 logger INFO end 雪球
+2019-08-01 11:55:09,487 logger INFO waiting:14.9
+2019-08-01 11:55:20,170 logger INFO start 雪球
+2019-08-01 11:55:20,277 logger INFO end 雪球
+2019-08-01 11:55:20,277 logger INFO waiting:14.89
+2019-08-01 11:55:24,388 logger INFO start 雪球
+2019-08-01 11:55:24,479 logger INFO end 雪球
+2019-08-01 11:55:24,479 logger INFO waiting:14.91
+2019-08-01 11:55:35,168 logger INFO start 雪球
+2019-08-01 11:55:35,279 logger INFO end 雪球
+2019-08-01 11:55:35,280 logger INFO waiting:14.89
+2019-08-01 11:55:39,390 logger INFO start 雪球
+2019-08-01 11:55:39,481 logger INFO end 雪球
+2019-08-01 11:55:39,481 logger INFO waiting:14.91
+2019-08-01 11:55:50,171 logger INFO start 雪球
+2019-08-01 11:55:50,266 logger INFO end 雪球
+2019-08-01 11:55:50,266 logger INFO waiting:14.91
+2019-08-01 11:55:54,392 logger INFO start 雪球
+2019-08-01 11:55:54,488 logger INFO end 雪球
+2019-08-01 11:55:54,489 logger INFO waiting:14.9
+2019-08-01 11:56:05,177 logger INFO start 雪球
+2019-08-01 11:56:05,279 logger INFO end 雪球
+2019-08-01 11:56:05,279 logger INFO waiting:14.9
+2019-08-01 11:56:09,390 logger INFO start 雪球
+2019-08-01 11:56:09,503 logger INFO end 雪球
+2019-08-01 11:56:09,504 logger INFO waiting:14.89
+2019-08-01 11:56:20,181 logger INFO start 雪球
+2019-08-01 11:56:20,320 logger INFO end 雪球
+2019-08-01 11:56:20,320 logger INFO waiting:14.86
+2019-08-01 11:56:24,395 logger INFO start 雪球
+2019-08-01 11:56:24,515 logger INFO end 雪球
+2019-08-01 11:56:24,515 logger INFO waiting:14.88
+2019-08-01 11:56:35,182 logger INFO start 雪球
+2019-08-01 11:56:35,279 logger INFO end 雪球
+2019-08-01 11:56:35,279 logger INFO waiting:14.9
+2019-08-01 11:56:37,151 logger INFO start 雪球
+2019-08-01 11:56:37,151 logger INFO Thread-1 start 雪球
+2019-08-01 11:56:37,342 logger INFO end 雪球
+2019-08-01 11:56:37,342 logger INFO waiting:14.81
+2019-08-01 11:56:49,892 logger INFO start 雪球
+2019-08-01 11:56:49,892 logger INFO Thread-1 start 雪球
+2019-08-01 11:56:50,088 logger INFO end 雪球
+2019-08-01 11:56:50,088 logger INFO waiting:14.8
+2019-08-01 11:56:50,181 logger INFO start 雪球
+2019-08-01 11:56:50,283 logger INFO end 雪球
+2019-08-01 11:56:50,284 logger INFO waiting:14.9
+2019-08-01 11:57:04,889 logger INFO start 雪球
+2019-08-01 11:57:04,978 logger INFO end 雪球
+2019-08-01 11:57:04,978 logger INFO waiting:14.91
+2019-08-01 11:57:05,185 logger INFO start 雪球
+2019-08-01 11:57:05,298 logger INFO end 雪球
+2019-08-01 11:57:05,298 logger INFO waiting:14.89
+2019-08-01 11:57:19,889 logger INFO start 雪球
+2019-08-01 11:57:19,983 logger INFO end 雪球
+2019-08-01 11:57:19,983 logger INFO waiting:14.91
+2019-08-01 11:57:20,190 logger INFO start 雪球
+2019-08-01 11:57:20,303 logger INFO end 雪球
+2019-08-01 11:57:20,313 logger INFO waiting:14.89
+2019-08-01 11:57:34,894 logger INFO start 雪球
+2019-08-01 11:57:34,993 logger INFO end 雪球
+2019-08-01 11:57:34,994 logger INFO waiting:14.9
+2019-08-01 11:57:35,211 logger INFO start 雪球
+2019-08-01 11:57:35,316 logger INFO end 雪球
+2019-08-01 11:57:35,316 logger INFO waiting:14.89
+2019-08-01 11:57:49,895 logger INFO start 雪球
+2019-08-01 11:57:49,991 logger INFO end 雪球
+2019-08-01 11:57:49,992 logger INFO waiting:14.9
+2019-08-01 11:57:50,212 logger INFO start 雪球
+2019-08-01 11:57:50,354 logger INFO end 雪球
+2019-08-01 11:57:50,365 logger INFO waiting:14.89
+2019-08-01 11:58:04,893 logger INFO start 雪球
+2019-08-01 11:58:05,067 logger INFO end 雪球
+2019-08-01 11:58:05,067 logger INFO waiting:14.83
+2019-08-01 11:58:05,258 logger INFO start 雪球
+2019-08-01 11:58:05,358 logger INFO end 雪球
+2019-08-01 11:58:05,358 logger INFO waiting:14.9
+2019-08-01 11:58:19,898 logger INFO start 雪球
+2019-08-01 11:58:19,998 logger INFO end 雪球
+2019-08-01 11:58:19,999 logger INFO waiting:14.9
+2019-08-01 11:58:20,259 logger INFO start 雪球
+2019-08-01 11:58:20,367 logger INFO end 雪球
+2019-08-01 11:58:20,367 logger INFO waiting:14.89
+2019-08-01 11:58:34,900 logger INFO start 雪球
+2019-08-01 11:58:35,002 logger INFO end 雪球
+2019-08-01 11:58:35,002 logger INFO waiting:14.9
+2019-08-01 11:58:35,258 logger INFO start 雪球
+2019-08-01 11:58:35,359 logger INFO end 雪球
+2019-08-01 11:58:35,359 logger INFO waiting:14.9
+2019-08-01 11:58:49,903 logger INFO start 雪球
+2019-08-01 11:58:50,004 logger INFO end 雪球
+2019-08-01 11:58:50,004 logger INFO waiting:14.9
+2019-08-01 11:58:50,261 logger INFO start 雪球
+2019-08-01 11:58:50,367 logger INFO end 雪球
+2019-08-01 11:58:50,367 logger INFO waiting:14.89
+2019-08-01 11:59:04,905 logger INFO start 雪球
+2019-08-01 11:59:05,024 logger INFO end 雪球
+2019-08-01 11:59:05,024 logger INFO waiting:14.88
+2019-08-01 11:59:05,259 logger INFO start 雪球
+2019-08-01 11:59:05,399 logger INFO end 雪球
+2019-08-01 11:59:05,399 logger INFO waiting:14.86
+2019-08-01 11:59:19,906 logger INFO start 雪球
+2019-08-01 11:59:20,020 logger INFO end 雪球
+2019-08-01 11:59:20,020 logger INFO waiting:14.89
+2019-08-01 11:59:20,260 logger INFO start 雪球
+2019-08-01 11:59:20,358 logger INFO end 雪球
+2019-08-01 11:59:20,359 logger INFO waiting:14.9
+2019-08-01 11:59:34,910 logger INFO start 雪球
+2019-08-01 11:59:35,026 logger INFO end 雪球
+2019-08-01 11:59:35,026 logger INFO waiting:14.88
+2019-08-01 11:59:35,261 logger INFO start 雪球
+2019-08-01 11:59:35,356 logger INFO end 雪球
+2019-08-01 11:59:35,357 logger INFO waiting:14.9
+2019-08-01 11:59:50,261 logger INFO start 雪球
+2019-08-01 11:59:50,362 logger INFO end 雪球
+2019-08-01 11:59:50,363 logger INFO waiting:14.9
+2019-08-01 12:00:05,264 logger INFO start 雪球
+2019-08-01 12:00:05,482 logger INFO end 雪球
+2019-08-01 12:00:05,488 logger INFO waiting:14.78
+2019-08-01 12:00:20,270 logger INFO start 雪球
+2019-08-01 12:00:20,390 logger INFO end 雪球
+2019-08-01 12:00:20,400 logger INFO waiting:14.89
+2019-08-01 12:00:35,292 logger INFO start 雪球
+2019-08-01 12:00:35,399 logger INFO end 雪球
+2019-08-01 12:00:35,413 logger INFO waiting:14.9
+2019-08-01 12:00:50,342 logger INFO start 雪球
+2019-08-01 12:00:50,439 logger INFO end 雪球
+2019-08-01 12:00:50,439 logger INFO waiting:14.9
+2019-08-01 12:01:05,340 logger INFO start 雪球
+2019-08-01 12:01:05,940 logger INFO end 雪球
+2019-08-01 12:01:05,941 logger INFO waiting:14.4
+2019-08-01 12:01:20,342 logger INFO start 雪球
+2019-08-01 12:01:20,436 logger INFO end 雪球
+2019-08-01 12:01:20,436 logger INFO waiting:14.91
+2019-08-01 12:01:35,348 logger INFO start 雪球
+2019-08-01 12:01:35,441 logger INFO end 雪球
+2019-08-01 12:01:35,442 logger INFO waiting:14.91
+2019-08-01 12:01:50,354 logger INFO start 雪球
+2019-08-01 12:01:50,456 logger INFO end 雪球
+2019-08-01 12:01:50,456 logger INFO waiting:14.9
+2019-08-01 12:02:05,358 logger INFO start 雪球
+2019-08-01 12:02:05,465 logger INFO end 雪球
+2019-08-01 12:02:05,465 logger INFO waiting:14.89
+2019-08-01 12:02:20,357 logger INFO start 雪球
+2019-08-01 12:02:22,272 logger INFO end 雪球
+2019-08-01 12:02:22,272 logger INFO waiting:13.09
+2019-08-01 12:02:35,364 logger INFO start 雪球
+2019-08-01 12:02:35,465 logger INFO end 雪球
+2019-08-01 12:02:35,466 logger INFO waiting:14.9
+2019-08-01 12:02:50,368 logger INFO start 雪球
+2019-08-01 12:02:50,472 logger INFO end 雪球
+2019-08-01 12:02:50,473 logger INFO waiting:14.9
+2019-08-01 12:03:05,375 logger INFO start 雪球
+2019-08-01 12:03:05,469 logger INFO end 雪球
+2019-08-01 12:03:05,470 logger INFO waiting:14.91
+2019-08-01 12:03:20,380 logger INFO start 雪球
+2019-08-01 12:03:20,477 logger INFO end 雪球
+2019-08-01 12:03:20,478 logger INFO waiting:14.9
+2019-08-01 12:03:35,378 logger INFO start 雪球
+2019-08-01 12:03:35,481 logger INFO end 雪球
+2019-08-01 12:03:35,481 logger INFO waiting:14.9
+2019-08-01 12:03:50,382 logger INFO start 雪球
+2019-08-01 12:03:50,520 logger INFO end 雪球
+2019-08-01 12:03:50,520 logger INFO waiting:14.86
+2019-08-01 12:04:05,381 logger INFO start 雪球
+2019-08-01 12:04:05,489 logger INFO end 雪球
+2019-08-01 12:04:05,489 logger INFO waiting:14.89
+2019-08-01 12:04:20,381 logger INFO start 雪球
+2019-08-01 12:04:20,482 logger INFO end 雪球
+2019-08-01 12:04:20,482 logger INFO waiting:14.9
+2019-08-01 12:04:35,384 logger INFO start 雪球
+2019-08-01 12:04:35,494 logger INFO end 雪球
+2019-08-01 12:04:35,494 logger INFO waiting:14.89
+2019-08-01 12:04:50,386 logger INFO start 雪球
+2019-08-01 12:04:50,482 logger INFO end 雪球
+2019-08-01 12:04:50,482 logger INFO waiting:14.9
+2019-08-01 12:05:05,384 logger INFO start 雪球
+2019-08-01 12:05:05,478 logger INFO end 雪球
+2019-08-01 12:05:05,478 logger INFO waiting:14.91
+2019-08-01 12:05:20,389 logger INFO start 雪球
+2019-08-01 12:05:20,498 logger INFO end 雪球
+2019-08-01 12:05:20,499 logger INFO waiting:14.89
+2019-08-01 12:05:35,390 logger INFO start 雪球
+2019-08-01 12:05:35,487 logger INFO end 雪球
+2019-08-01 12:05:35,487 logger INFO waiting:14.9
+2019-08-01 12:05:50,389 logger INFO start 雪球
+2019-08-01 12:05:50,483 logger INFO end 雪球
+2019-08-01 12:05:50,484 logger INFO waiting:14.91
+2019-08-01 12:06:05,396 logger INFO start 雪球
+2019-08-01 12:06:05,560 logger INFO end 雪球
+2019-08-01 12:06:05,561 logger INFO waiting:14.84
+2019-08-01 12:06:20,403 logger INFO start 雪球
+2019-08-01 12:06:20,508 logger INFO end 雪球
+2019-08-01 12:06:20,508 logger INFO waiting:14.89
+2019-08-01 12:06:35,400 logger INFO start 雪球
+2019-08-01 12:06:35,505 logger INFO end 雪球
+2019-08-01 12:06:35,505 logger INFO waiting:14.89
+2019-08-01 12:06:50,397 logger INFO start 雪球
+2019-08-01 12:06:51,686 logger INFO end 雪球
+2019-08-01 12:06:51,686 logger INFO waiting:13.71
+2019-08-01 12:07:05,398 logger INFO start 雪球
+2019-08-01 12:07:05,499 logger INFO end 雪球
+2019-08-01 12:07:05,500 logger INFO waiting:14.9
+2019-08-01 12:07:20,401 logger INFO start 雪球
+2019-08-01 12:07:20,499 logger INFO end 雪球
+2019-08-01 12:07:20,500 logger INFO waiting:14.9
+2019-08-01 12:07:35,401 logger INFO start 雪球
+2019-08-01 12:07:35,498 logger INFO end 雪球
+2019-08-01 12:07:35,498 logger INFO waiting:14.9
+2019-08-01 12:07:50,401 logger INFO start 雪球
+2019-08-01 12:07:50,504 logger INFO end 雪球
+2019-08-01 12:07:50,505 logger INFO waiting:14.9
+2019-08-01 12:08:05,406 logger INFO start 雪球
+2019-08-01 12:08:05,507 logger INFO end 雪球
+2019-08-01 12:08:05,507 logger INFO waiting:14.9
+2019-08-01 12:08:20,409 logger INFO start 雪球
+2019-08-01 12:08:21,288 logger INFO end 雪球
+2019-08-01 12:08:21,288 logger INFO waiting:14.12
+2019-08-01 12:08:35,410 logger INFO start 雪球
+2019-08-01 12:08:35,515 logger INFO end 雪球
+2019-08-01 12:08:35,515 logger INFO waiting:14.89
+2019-08-01 12:08:50,407 logger INFO start 雪球
+2019-08-01 12:08:50,512 logger INFO end 雪球
+2019-08-01 12:08:50,513 logger INFO waiting:14.89
+2019-08-01 12:09:05,404 logger INFO start 雪球
+2019-08-01 12:09:05,518 logger INFO end 雪球
+2019-08-01 12:09:05,519 logger INFO waiting:14.89
+2019-08-01 12:09:20,410 logger INFO start 雪球
+2019-08-01 12:09:20,510 logger INFO end 雪球
+2019-08-01 12:09:20,511 logger INFO waiting:14.9
+2019-08-01 12:09:35,411 logger INFO start 雪球
+2019-08-01 12:09:35,508 logger INFO end 雪球
+2019-08-01 12:09:35,509 logger INFO waiting:14.9
+2019-08-01 12:09:50,409 logger INFO start 雪球
+2019-08-01 12:09:50,514 logger INFO end 雪球
+2019-08-01 12:09:50,515 logger INFO waiting:14.9
+2019-08-01 12:10:05,415 logger INFO start 雪球
+2019-08-01 12:10:05,544 logger INFO end 雪球
+2019-08-01 12:10:05,544 logger INFO waiting:14.87
+2019-08-01 12:10:20,416 logger INFO start 雪球
+2019-08-01 12:10:20,557 logger INFO end 雪球
+2019-08-01 12:10:20,558 logger INFO waiting:14.86
+2019-08-01 12:10:35,420 logger INFO start 雪球
+2019-08-01 12:10:35,522 logger INFO end 雪球
+2019-08-01 12:10:35,523 logger INFO waiting:14.9
+2019-08-01 12:10:50,424 logger INFO start 雪球
+2019-08-01 12:10:50,520 logger INFO end 雪球
+2019-08-01 12:10:50,520 logger INFO waiting:14.9
+2019-08-01 12:11:05,422 logger INFO start 雪球
+2019-08-01 12:11:05,535 logger INFO end 雪球
+2019-08-01 12:11:05,535 logger INFO waiting:14.89
+2019-08-01 12:11:20,427 logger INFO start 雪球
+2019-08-01 12:11:20,520 logger INFO end 雪球
+2019-08-01 12:11:20,521 logger INFO waiting:14.91
+2019-08-01 12:11:35,431 logger INFO start 雪球
+2019-08-01 12:11:35,531 logger INFO end 雪球
+2019-08-01 12:11:35,532 logger INFO waiting:14.9
+2019-08-01 12:11:50,432 logger INFO start 雪球
+2019-08-01 12:11:50,539 logger INFO end 雪球
+2019-08-01 12:11:50,539 logger INFO waiting:14.89
+2019-08-01 12:12:05,430 logger INFO start 雪球
+2019-08-01 12:12:05,519 logger INFO end 雪球
+2019-08-01 12:12:05,519 logger INFO waiting:14.91
+2019-08-01 12:12:20,431 logger INFO start 雪球
+2019-08-01 12:12:20,531 logger INFO end 雪球
+2019-08-01 12:12:20,531 logger INFO waiting:14.9
+2019-08-01 12:12:35,433 logger INFO start 雪球
+2019-08-01 12:12:35,533 logger INFO end 雪球
+2019-08-01 12:12:35,533 logger INFO waiting:14.9
+2019-08-01 12:12:50,435 logger INFO start 雪球
+2019-08-01 12:12:50,609 logger INFO end 雪球
+2019-08-01 12:12:50,610 logger INFO waiting:14.83
+2019-08-01 12:13:05,442 logger INFO start 雪球
+2019-08-01 12:13:05,540 logger INFO end 雪球
+2019-08-01 12:13:05,540 logger INFO waiting:14.9
+2019-08-01 12:13:20,442 logger INFO start 雪球
+2019-08-01 12:13:20,549 logger INFO end 雪球
+2019-08-01 12:13:20,549 logger INFO waiting:14.89
+2019-08-01 12:13:35,440 logger INFO start 雪球
+2019-08-01 12:13:35,546 logger INFO end 雪球
+2019-08-01 12:13:35,546 logger INFO waiting:14.89
+2019-08-01 12:13:50,437 logger INFO start 雪球
+2019-08-01 12:13:50,535 logger INFO end 雪球
+2019-08-01 12:13:50,536 logger INFO waiting:14.9
+2019-08-01 12:14:05,436 logger INFO start 雪球
+2019-08-01 12:14:05,537 logger INFO end 雪球
+2019-08-01 12:14:05,537 logger INFO waiting:14.9
+2019-08-01 12:14:20,439 logger INFO start 雪球
+2019-08-01 12:14:20,544 logger INFO end 雪球
+2019-08-01 12:14:20,544 logger INFO waiting:14.89
+2019-08-01 12:14:35,435 logger INFO start 雪球
+2019-08-01 12:14:35,588 logger INFO end 雪球
+2019-08-01 12:14:35,589 logger INFO waiting:14.85
+2019-08-01 12:14:50,440 logger INFO start 雪球
+2019-08-01 12:14:50,544 logger INFO end 雪球
+2019-08-01 12:14:50,544 logger INFO waiting:14.9
+2019-08-01 12:15:05,446 logger INFO start 雪球
+2019-08-01 12:15:05,547 logger INFO end 雪球
+2019-08-01 12:15:05,547 logger INFO waiting:14.9
+2019-08-01 12:15:20,448 logger INFO start 雪球
+2019-08-01 12:15:20,548 logger INFO end 雪球
+2019-08-01 12:15:20,548 logger INFO waiting:14.9
+2019-08-01 12:15:35,450 logger INFO start 雪球
+2019-08-01 12:15:35,547 logger INFO end 雪球
+2019-08-01 12:15:35,548 logger INFO waiting:14.9
+2019-08-01 12:15:50,450 logger INFO start 雪球
+2019-08-01 12:15:50,589 logger INFO end 雪球
+2019-08-01 12:15:50,590 logger INFO waiting:14.86
+2019-08-01 12:16:05,450 logger INFO start 雪球
+2019-08-01 12:16:05,563 logger INFO end 雪球
+2019-08-01 12:16:05,564 logger INFO waiting:14.89
+2019-08-01 12:16:20,455 logger INFO start 雪球
+2019-08-01 12:16:20,559 logger INFO end 雪球
+2019-08-01 12:16:20,559 logger INFO waiting:14.9
+2019-08-01 12:16:35,461 logger INFO start 雪球
+2019-08-01 12:16:35,592 logger INFO end 雪球
+2019-08-01 12:16:35,593 logger INFO waiting:14.87
+2019-08-01 12:16:50,465 logger INFO start 雪球
+2019-08-01 12:16:50,563 logger INFO end 雪球
+2019-08-01 12:16:50,563 logger INFO waiting:14.9
+2019-08-01 12:17:05,464 logger INFO start 雪球
+2019-08-01 12:17:05,560 logger INFO end 雪球
+2019-08-01 12:17:05,561 logger INFO waiting:14.9
+2019-08-01 12:17:20,463 logger INFO start 雪球
+2019-08-01 12:17:20,562 logger INFO end 雪球
+2019-08-01 12:17:20,562 logger INFO waiting:14.9
+2019-08-01 12:17:35,464 logger INFO start 雪球
+2019-08-01 12:17:35,563 logger INFO end 雪球
+2019-08-01 12:17:35,564 logger INFO waiting:14.9
+2019-08-01 12:17:50,465 logger INFO start 雪球
+2019-08-01 12:17:50,608 logger INFO end 雪球
+2019-08-01 12:17:50,608 logger INFO waiting:14.86
+2019-08-01 12:18:05,470 logger INFO start 雪球
+2019-08-01 12:18:05,565 logger INFO end 雪球
+2019-08-01 12:18:05,566 logger INFO waiting:14.9
+2019-08-01 12:18:20,467 logger INFO start 雪球
+2019-08-01 12:18:20,568 logger INFO end 雪球
+2019-08-01 12:18:20,568 logger INFO waiting:14.9
+2019-08-01 12:18:35,469 logger INFO start 雪球
+2019-08-01 12:18:35,604 logger INFO end 雪球
+2019-08-01 12:18:35,604 logger INFO waiting:14.87
+2019-08-01 12:18:50,475 logger INFO start 雪球
+2019-08-01 12:18:50,581 logger INFO end 雪球
+2019-08-01 12:18:50,583 logger INFO waiting:14.89
+2019-08-01 12:19:05,476 logger INFO start 雪球
+2019-08-01 12:19:05,583 logger INFO end 雪球
+2019-08-01 12:19:05,584 logger INFO waiting:14.89
+2019-08-01 12:19:20,475 logger INFO start 雪球
+2019-08-01 12:19:20,581 logger INFO end 雪球
+2019-08-01 12:19:20,581 logger INFO waiting:14.89
+2019-08-01 12:19:35,473 logger INFO start 雪球
+2019-08-01 12:19:36,052 logger INFO end 雪球
+2019-08-01 12:19:36,052 logger INFO waiting:14.42
+2019-08-01 12:19:50,474 logger INFO start 雪球
+2019-08-01 12:19:50,571 logger INFO end 雪球
+2019-08-01 12:19:50,571 logger INFO waiting:14.9
+2019-08-01 12:20:05,472 logger INFO start 雪球
+2019-08-01 12:20:05,587 logger INFO end 雪球
+2019-08-01 12:20:05,588 logger INFO waiting:14.89
+2019-08-01 12:20:20,479 logger INFO start 雪球
+2019-08-01 12:20:20,581 logger INFO end 雪球
+2019-08-01 12:20:20,581 logger INFO waiting:14.9
+2019-08-01 12:20:35,482 logger INFO start 雪球
+2019-08-01 12:20:35,594 logger INFO end 雪球
+2019-08-01 12:20:35,595 logger INFO waiting:14.89
+2019-08-01 12:20:50,487 logger INFO start 雪球
+2019-08-01 12:20:50,614 logger INFO end 雪球
+2019-08-01 12:20:50,614 logger INFO waiting:14.87
+2019-08-01 12:21:05,486 logger INFO start 雪球
+2019-08-01 12:21:05,588 logger INFO end 雪球
+2019-08-01 12:21:05,589 logger INFO waiting:14.9
+2019-08-01 12:21:20,490 logger INFO start 雪球
+2019-08-01 12:21:20,590 logger INFO end 雪球
+2019-08-01 12:21:20,591 logger INFO waiting:14.9
+2019-08-01 12:21:35,493 logger INFO start 雪球
+2019-08-01 12:21:35,840 logger INFO end 雪球
+2019-08-01 12:21:35,841 logger INFO waiting:14.65
+2019-08-01 12:21:50,492 logger INFO start 雪球
+2019-08-01 12:21:50,592 logger INFO end 雪球
+2019-08-01 12:21:50,592 logger INFO waiting:14.9
+2019-08-01 12:22:05,493 logger INFO start 雪球
+2019-08-01 12:22:05,596 logger INFO end 雪球
+2019-08-01 12:22:05,596 logger INFO waiting:14.9
+2019-08-01 12:22:20,498 logger INFO start 雪球
+2019-08-01 12:22:20,619 logger INFO end 雪球
+2019-08-01 12:22:20,619 logger INFO waiting:14.88
+2019-08-01 12:22:35,501 logger INFO start 雪球
+2019-08-01 12:22:35,600 logger INFO end 雪球
+2019-08-01 12:22:35,601 logger INFO waiting:14.9
+2019-08-01 12:22:50,502 logger INFO start 雪球
+2019-08-01 12:22:50,604 logger INFO end 雪球
+2019-08-01 12:22:50,605 logger INFO waiting:14.9
+2019-08-01 12:23:05,506 logger INFO start 雪球
+2019-08-01 12:23:05,604 logger INFO end 雪球
+2019-08-01 12:23:05,604 logger INFO waiting:14.9
+2019-08-01 12:23:20,506 logger INFO start 雪球
+2019-08-01 12:23:20,604 logger INFO end 雪球
+2019-08-01 12:23:20,604 logger INFO waiting:14.9
+2019-08-01 12:23:35,505 logger INFO start 雪球
+2019-08-01 12:23:35,604 logger INFO end 雪球
+2019-08-01 12:23:35,604 logger INFO waiting:14.9
+2019-08-01 12:23:50,505 logger INFO start 雪球
+2019-08-01 12:23:50,599 logger INFO end 雪球
+2019-08-01 12:23:50,599 logger INFO waiting:14.91
+2019-08-01 12:24:05,509 logger INFO start 雪球
+2019-08-01 12:24:05,609 logger INFO end 雪球
+2019-08-01 12:24:05,609 logger INFO waiting:14.9
+2019-08-01 12:24:20,510 logger INFO start 雪球
+2019-08-01 12:24:20,618 logger INFO end 雪球
+2019-08-01 12:24:20,618 logger INFO waiting:14.89
+2019-08-01 12:24:35,509 logger INFO start 雪球
+2019-08-01 12:24:35,604 logger INFO end 雪球
+2019-08-01 12:24:35,605 logger INFO waiting:14.9
+2019-08-01 12:24:50,506 logger INFO start 雪球
+2019-08-01 12:24:50,606 logger INFO end 雪球
+2019-08-01 12:24:50,608 logger INFO waiting:14.9
+2019-08-01 12:25:05,510 logger INFO start 雪球
+2019-08-01 12:25:05,610 logger INFO end 雪球
+2019-08-01 12:25:05,610 logger INFO waiting:14.9
+2019-08-01 12:25:20,512 logger INFO start 雪球
+2019-08-01 12:25:20,613 logger INFO end 雪球
+2019-08-01 12:25:20,613 logger INFO waiting:14.9
+2019-08-01 12:25:35,514 logger INFO start 雪球
+2019-08-01 12:25:35,629 logger INFO end 雪球
+2019-08-01 12:25:35,629 logger INFO waiting:14.89
+2019-08-01 12:25:50,521 logger INFO start 雪球
+2019-08-01 12:25:50,652 logger INFO end 雪球
+2019-08-01 12:25:50,652 logger INFO waiting:14.87
+2019-08-01 12:26:05,523 logger INFO start 雪球
+2019-08-01 12:26:05,622 logger INFO end 雪球
+2019-08-01 12:26:05,624 logger INFO waiting:14.9
+2019-08-01 12:26:20,525 logger INFO start 雪球
+2019-08-01 12:26:20,640 logger INFO end 雪球
+2019-08-01 12:26:20,640 logger INFO waiting:14.88
+2019-08-01 12:26:35,522 logger INFO start 雪球
+2019-08-01 12:26:35,623 logger INFO end 雪球
+2019-08-01 12:26:35,624 logger INFO waiting:14.9
+2019-08-01 12:26:50,526 logger INFO start 雪球
+2019-08-01 12:26:50,626 logger INFO end 雪球
+2019-08-01 12:26:50,626 logger INFO waiting:14.9
+2019-08-01 12:27:05,528 logger INFO start 雪球
+2019-08-01 12:27:05,633 logger INFO end 雪球
+2019-08-01 12:27:05,634 logger INFO waiting:14.9
+2019-08-01 12:27:20,534 logger INFO start 雪球
+2019-08-01 12:27:20,660 logger INFO end 雪球
+2019-08-01 12:27:20,660 logger INFO waiting:14.87
+2019-08-01 12:27:35,531 logger INFO start 雪球
+2019-08-01 12:27:35,633 logger INFO end 雪球
+2019-08-01 12:27:35,633 logger INFO waiting:14.9
+2019-08-01 12:27:50,534 logger INFO start 雪球
+2019-08-01 12:27:50,633 logger INFO end 雪球
+2019-08-01 12:27:50,633 logger INFO waiting:14.9
+2019-08-01 12:28:05,534 logger INFO start 雪球
+2019-08-01 12:28:05,633 logger INFO end 雪球
+2019-08-01 12:28:05,633 logger INFO waiting:14.9
+2019-08-01 12:28:20,534 logger INFO start 雪球
+2019-08-01 12:28:20,645 logger INFO end 雪球
+2019-08-01 12:28:20,645 logger INFO waiting:14.89
+2019-08-01 12:28:35,536 logger INFO start 雪球
+2019-08-01 12:28:35,639 logger INFO end 雪球
+2019-08-01 12:28:35,639 logger INFO waiting:14.9
+2019-08-01 12:28:50,540 logger INFO start 雪球
+2019-08-01 12:28:50,643 logger INFO end 雪球
+2019-08-01 12:28:50,643 logger INFO waiting:14.9
+2019-08-01 12:29:05,547 logger INFO start 雪球
+2019-08-01 12:29:05,652 logger INFO end 雪球
+2019-08-01 12:29:05,652 logger INFO waiting:14.89
+2019-08-01 12:29:20,544 logger INFO start 雪球
+2019-08-01 12:29:20,648 logger INFO end 雪球
+2019-08-01 12:29:20,649 logger INFO waiting:14.9
+2019-08-01 12:29:35,550 logger INFO start 雪球
+2019-08-01 12:29:35,655 logger INFO end 雪球
+2019-08-01 12:29:35,656 logger INFO waiting:14.9
+2019-08-01 12:29:50,558 logger INFO start 雪球
+2019-08-01 12:29:50,664 logger INFO end 雪球
+2019-08-01 12:29:50,665 logger INFO waiting:14.9
+2019-08-01 12:30:05,565 logger INFO start 雪球
+2019-08-01 12:30:05,667 logger INFO end 雪球
+2019-08-01 12:30:05,667 logger INFO waiting:14.9
+2019-08-01 12:30:20,568 logger INFO start 雪球
+2019-08-01 12:30:20,678 logger INFO end 雪球
+2019-08-01 12:30:20,679 logger INFO waiting:14.89
+2019-08-01 12:30:35,570 logger INFO start 雪球
+2019-08-01 12:30:35,695 logger INFO end 雪球
+2019-08-01 12:30:35,695 logger INFO waiting:14.87
+2019-08-01 12:30:50,567 logger INFO start 雪球
+2019-08-01 12:30:50,667 logger INFO end 雪球
+2019-08-01 12:30:50,668 logger INFO waiting:14.9
+2019-08-01 12:31:05,569 logger INFO start 雪球
+2019-08-01 12:31:05,696 logger INFO end 雪球
+2019-08-01 12:31:05,696 logger INFO waiting:14.87
+2019-08-01 12:31:20,567 logger INFO start 雪球
+2019-08-01 12:31:20,671 logger INFO end 雪球
+2019-08-01 12:31:20,671 logger INFO waiting:14.9
+2019-08-01 12:31:35,572 logger INFO start 雪球
+2019-08-01 12:31:35,695 logger INFO end 雪球
+2019-08-01 12:31:35,695 logger INFO waiting:14.88
+2019-08-01 12:31:50,577 logger INFO start 雪球
+2019-08-01 12:31:50,680 logger INFO end 雪球
+2019-08-01 12:31:50,681 logger INFO waiting:14.9
+2019-08-01 12:32:05,582 logger INFO start 雪球
+2019-08-01 12:32:05,926 logger INFO end 雪球
+2019-08-01 12:32:05,927 logger INFO waiting:14.66
+2019-08-01 12:32:20,590 logger INFO start 雪球
+2019-08-01 12:32:20,730 logger INFO end 雪球
+2019-08-01 12:32:20,730 logger INFO waiting:14.86
+2019-08-01 12:32:35,591 logger INFO start 雪球
+2019-08-01 12:32:35,698 logger INFO end 雪球
+2019-08-01 12:32:35,698 logger INFO waiting:14.89
+2019-08-01 12:32:50,589 logger INFO start 雪球
+2019-08-01 12:32:50,701 logger INFO end 雪球
+2019-08-01 12:32:50,701 logger INFO waiting:14.89
+2019-08-01 12:33:05,592 logger INFO start 雪球
+2019-08-01 12:33:06,004 logger INFO end 雪球
+2019-08-01 12:33:06,004 logger INFO waiting:14.59
+2019-08-01 12:33:20,596 logger INFO start 雪球
+2019-08-01 12:33:20,693 logger INFO end 雪球
+2019-08-01 12:33:20,693 logger INFO waiting:14.9
+2019-08-01 12:33:35,595 logger INFO start 雪球
+2019-08-01 12:33:35,710 logger INFO end 雪球
+2019-08-01 12:33:35,710 logger INFO waiting:14.88
+2019-08-01 12:33:50,591 logger INFO start 雪球
+2019-08-01 12:33:50,690 logger INFO end 雪球
+2019-08-01 12:33:50,690 logger INFO waiting:14.9
+2019-08-01 12:34:05,591 logger INFO start 雪球
+2019-08-01 12:34:05,952 logger INFO end 雪球
+2019-08-01 12:34:05,953 logger INFO waiting:14.64
+2019-08-01 12:34:20,594 logger INFO start 雪球
+2019-08-01 12:34:20,698 logger INFO end 雪球
+2019-08-01 12:34:20,698 logger INFO waiting:14.9
+2019-08-01 12:34:35,600 logger INFO start 雪球
+2019-08-01 12:34:35,710 logger INFO end 雪球
+2019-08-01 12:34:35,710 logger INFO waiting:14.89
+2019-08-01 12:34:50,601 logger INFO start 雪球
+2019-08-01 12:34:50,721 logger INFO end 雪球
+2019-08-01 12:34:50,721 logger INFO waiting:14.88
+2019-08-01 12:35:05,602 logger INFO start 雪球
+2019-08-01 12:35:05,702 logger INFO end 雪球
+2019-08-01 12:35:05,703 logger INFO waiting:14.9
+2019-08-01 12:35:20,604 logger INFO start 雪球
+2019-08-01 12:35:20,710 logger INFO end 雪球
+2019-08-01 12:35:20,710 logger INFO waiting:14.89
+2019-08-01 12:35:35,601 logger INFO start 雪球
+2019-08-01 12:35:35,694 logger INFO end 雪球
+2019-08-01 12:35:35,695 logger INFO waiting:14.91
+2019-08-01 12:35:50,605 logger INFO start 雪球
+2019-08-01 12:35:50,719 logger INFO end 雪球
+2019-08-01 12:35:50,719 logger INFO waiting:14.89
+2019-08-01 12:36:05,609 logger INFO start 雪球
+2019-08-01 12:36:05,947 logger INFO end 雪球
+2019-08-01 12:36:05,947 logger INFO waiting:14.66
+2019-08-01 12:36:20,609 logger INFO start 雪球
+2019-08-01 12:36:20,701 logger INFO end 雪球
+2019-08-01 12:36:20,701 logger INFO waiting:14.91
+2019-08-01 12:36:35,613 logger INFO start 雪球
+2019-08-01 12:36:35,710 logger INFO end 雪球
+2019-08-01 12:36:35,710 logger INFO waiting:14.9
+2019-08-01 12:36:50,611 logger INFO start 雪球
+2019-08-01 12:36:50,707 logger INFO end 雪球
+2019-08-01 12:36:50,707 logger INFO waiting:14.9
+2019-08-01 12:37:05,609 logger INFO start 雪球
+2019-08-01 12:37:05,720 logger INFO end 雪球
+2019-08-01 12:37:05,720 logger INFO waiting:14.89
+2019-08-01 12:37:20,612 logger INFO start 雪球
+2019-08-01 12:37:20,714 logger INFO end 雪球
+2019-08-01 12:37:20,714 logger INFO waiting:14.9
+2019-08-01 12:37:35,615 logger INFO start 雪球
+2019-08-01 12:37:35,722 logger INFO end 雪球
+2019-08-01 12:37:35,722 logger INFO waiting:14.89
+2019-08-01 12:37:50,613 logger INFO start 雪球
+2019-08-01 12:37:52,601 logger INFO end 雪球
+2019-08-01 12:37:52,601 logger INFO waiting:13.01
+2019-08-01 12:38:05,612 logger INFO start 雪球
+2019-08-01 12:38:06,747 logger INFO end 雪球
+2019-08-01 12:38:06,747 logger INFO waiting:13.86
+2019-08-01 12:38:20,608 logger INFO start 雪球
+2019-08-01 12:38:20,795 logger INFO end 雪球
+2019-08-01 12:38:20,796 logger INFO waiting:14.81
+2019-08-01 12:38:35,607 logger INFO start 雪球
+2019-08-01 12:38:35,737 logger INFO end 雪球
+2019-08-01 12:38:35,737 logger INFO waiting:14.87
+2019-08-01 12:38:50,609 logger INFO start 雪球
+2019-08-01 12:38:50,734 logger INFO end 雪球
+2019-08-01 12:38:50,735 logger INFO waiting:14.87
+2019-08-01 12:39:05,606 logger INFO start 雪球
+2019-08-01 12:39:05,752 logger INFO end 雪球
+2019-08-01 12:39:05,752 logger INFO waiting:14.85
+2019-08-01 12:39:20,603 logger INFO start 雪球
+2019-08-01 12:39:20,997 logger INFO end 雪球
+2019-08-01 12:39:20,997 logger INFO waiting:14.61
+2019-08-01 12:39:35,610 logger INFO start 雪球
+2019-08-01 12:39:35,759 logger INFO end 雪球
+2019-08-01 12:39:35,759 logger INFO waiting:14.85
+2019-08-01 12:39:50,611 logger INFO start 雪球
+2019-08-01 12:39:50,717 logger INFO end 雪球
+2019-08-01 12:39:50,717 logger INFO waiting:14.89
+2019-08-01 12:40:05,609 logger INFO start 雪球
+2019-08-01 12:40:05,724 logger INFO end 雪球
+2019-08-01 12:40:05,724 logger INFO waiting:14.88
+2019-08-01 12:40:20,606 logger INFO start 雪球
+2019-08-01 12:40:20,770 logger INFO end 雪球
+2019-08-01 12:40:20,770 logger INFO waiting:14.84
+2019-08-01 12:40:35,611 logger INFO start 雪球
+2019-08-01 12:40:36,727 logger INFO end 雪球
+2019-08-01 12:40:36,728 logger INFO waiting:13.88
+2019-08-01 12:40:50,610 logger INFO start 雪球
+2019-08-01 12:40:50,722 logger INFO end 雪球
+2019-08-01 12:40:50,722 logger INFO waiting:14.89
+2019-08-01 12:41:05,613 logger INFO start 雪球
+2019-08-01 12:41:06,663 logger INFO end 雪球
+2019-08-01 12:41:06,664 logger INFO waiting:13.95
+2019-08-01 12:41:20,615 logger INFO start 雪球
+2019-08-01 12:41:21,235 logger INFO end 雪球
+2019-08-01 12:41:21,235 logger INFO waiting:14.38
+2019-08-01 12:41:35,617 logger INFO start 雪球
+2019-08-01 12:41:35,747 logger INFO end 雪球
+2019-08-01 12:41:35,747 logger INFO waiting:14.87
+2019-08-01 12:41:50,618 logger INFO start 雪球
+2019-08-01 12:41:50,752 logger INFO end 雪球
+2019-08-01 12:41:50,753 logger INFO waiting:14.87
+2019-08-01 12:42:05,623 logger INFO start 雪球
+2019-08-01 12:42:05,737 logger INFO end 雪球
+2019-08-01 12:42:05,737 logger INFO waiting:14.89
+2019-08-01 12:42:20,629 logger INFO start 雪球
+2019-08-01 12:42:20,759 logger INFO end 雪球
+2019-08-01 12:42:20,760 logger INFO waiting:14.87
+2019-08-01 12:42:35,630 logger INFO start 雪球
+2019-08-01 12:42:35,728 logger INFO end 雪球
+2019-08-01 12:42:35,729 logger INFO waiting:14.9
+2019-08-01 12:42:50,629 logger INFO start 雪球
+2019-08-01 12:42:50,767 logger INFO end 雪球
+2019-08-01 12:42:50,768 logger INFO waiting:14.86
+2019-08-01 12:43:05,629 logger INFO start 雪球
+2019-08-01 12:43:05,946 logger INFO end 雪球
+2019-08-01 12:43:05,946 logger INFO waiting:14.68
+2019-08-01 12:43:20,627 logger INFO start 雪球
+2019-08-01 12:43:20,750 logger INFO end 雪球
+2019-08-01 12:43:20,751 logger INFO waiting:14.88
+2019-08-01 12:43:35,633 logger INFO start 雪球
+2019-08-01 12:43:35,744 logger INFO end 雪球
+2019-08-01 12:43:35,744 logger INFO waiting:14.89
+2019-08-01 12:43:50,636 logger INFO start 雪球
+2019-08-01 12:43:51,750 logger INFO end 雪球
+2019-08-01 12:43:51,750 logger INFO waiting:13.89
+2019-08-01 12:44:05,641 logger INFO start 雪球
+2019-08-01 12:44:05,774 logger INFO end 雪球
+2019-08-01 12:44:05,775 logger INFO waiting:14.87
+2019-08-01 12:44:20,645 logger INFO start 雪球
+2019-08-01 12:44:20,745 logger INFO end 雪球
+2019-08-01 12:44:20,745 logger INFO waiting:14.9
+2019-08-01 12:44:35,646 logger INFO start 雪球
+2019-08-01 12:44:35,762 logger INFO end 雪球
+2019-08-01 12:44:35,763 logger INFO waiting:14.88
+2019-08-01 12:44:50,646 logger INFO start 雪球
+2019-08-01 12:44:50,752 logger INFO end 雪球
+2019-08-01 12:44:50,752 logger INFO waiting:14.89
+2019-08-01 12:45:05,644 logger INFO start 雪球
+2019-08-01 12:45:05,748 logger INFO end 雪球
+2019-08-01 12:45:05,748 logger INFO waiting:14.9
+2019-08-01 12:45:20,650 logger INFO start 雪球
+2019-08-01 12:45:20,755 logger INFO end 雪球
+2019-08-01 12:45:20,755 logger INFO waiting:14.9
+2019-08-01 12:45:35,656 logger INFO start 雪球
+2019-08-01 12:45:35,752 logger INFO end 雪球
+2019-08-01 12:45:35,752 logger INFO waiting:14.9
+2019-08-01 12:45:50,653 logger INFO start 雪球
+2019-08-01 12:45:50,809 logger INFO end 雪球
+2019-08-01 12:45:50,809 logger INFO waiting:14.85
+2019-08-01 12:46:05,660 logger INFO start 雪球
+2019-08-01 12:46:05,760 logger INFO end 雪球
+2019-08-01 12:46:05,760 logger INFO waiting:14.9
+2019-08-01 12:46:20,661 logger INFO start 雪球
+2019-08-01 12:46:20,785 logger INFO end 雪球
+2019-08-01 12:46:20,786 logger INFO waiting:14.88
+2019-08-01 12:46:35,666 logger INFO start 雪球
+2019-08-01 12:46:35,772 logger INFO end 雪球
+2019-08-01 12:46:35,772 logger INFO waiting:14.89
+2019-08-01 12:46:50,663 logger INFO start 雪球
+2019-08-01 12:46:51,038 logger INFO end 雪球
+2019-08-01 12:46:51,038 logger INFO waiting:14.63
+2019-08-01 12:47:05,670 logger INFO start 雪球
+2019-08-01 12:47:05,781 logger INFO end 雪球
+2019-08-01 12:47:05,782 logger INFO waiting:14.89
+2019-08-01 12:47:20,674 logger INFO start 雪球
+2019-08-01 12:47:20,788 logger INFO end 雪球
+2019-08-01 12:47:20,789 logger INFO waiting:14.89
+2019-08-01 12:47:35,679 logger INFO start 雪球
+2019-08-01 12:47:35,799 logger INFO end 雪球
+2019-08-01 12:47:35,800 logger INFO waiting:14.88
+2019-08-01 12:47:50,680 logger INFO start 雪球
+2019-08-01 12:47:50,796 logger INFO end 雪球
+2019-08-01 12:47:50,797 logger INFO waiting:14.88
+2019-08-01 12:48:05,679 logger INFO start 雪球
+2019-08-01 12:48:05,783 logger INFO end 雪球
+2019-08-01 12:48:05,784 logger INFO waiting:14.9
+2019-08-01 12:48:20,685 logger INFO start 雪球
+2019-08-01 12:48:20,813 logger INFO end 雪球
+2019-08-01 12:48:20,813 logger INFO waiting:14.87
+2019-08-01 12:48:35,686 logger INFO start 雪球
+2019-08-01 12:48:35,786 logger INFO end 雪球
+2019-08-01 12:48:35,787 logger INFO waiting:14.9
+2019-08-01 12:48:50,688 logger INFO start 雪球
+2019-08-01 12:48:50,785 logger INFO end 雪球
+2019-08-01 12:48:50,786 logger INFO waiting:14.9
+2019-08-01 12:49:05,687 logger INFO start 雪球
+2019-08-01 12:49:05,782 logger INFO end 雪球
+2019-08-01 12:49:05,783 logger INFO waiting:14.9
+2019-08-01 12:49:20,684 logger INFO start 雪球
+2019-08-01 12:49:20,802 logger INFO end 雪球
+2019-08-01 12:49:20,803 logger INFO waiting:14.88
+2019-08-01 12:49:35,683 logger INFO start 雪球
+2019-08-01 12:49:35,797 logger INFO end 雪球
+2019-08-01 12:49:35,797 logger INFO waiting:14.89
+2019-08-01 12:49:50,688 logger INFO start 雪球
+2019-08-01 12:49:50,779 logger INFO end 雪球
+2019-08-01 12:49:50,779 logger INFO waiting:14.91
+2019-08-01 12:50:05,691 logger INFO start 雪球
+2019-08-01 12:50:05,791 logger INFO end 雪球
+2019-08-01 12:50:05,792 logger INFO waiting:14.9
+2019-08-01 12:50:20,693 logger INFO start 雪球
+2019-08-01 12:50:20,813 logger INFO end 雪球
+2019-08-01 12:50:20,815 logger INFO waiting:14.88
+2019-08-01 12:50:35,696 logger INFO start 雪球
+2019-08-01 12:50:35,798 logger INFO end 雪球
+2019-08-01 12:50:35,798 logger INFO waiting:14.9
+2019-08-01 12:50:50,699 logger INFO start 雪球
+2019-08-01 12:50:50,877 logger INFO end 雪球
+2019-08-01 12:50:50,877 logger INFO waiting:14.82
+2019-08-01 12:51:05,698 logger INFO start 雪球
+2019-08-01 12:51:05,796 logger INFO end 雪球
+2019-08-01 12:51:05,797 logger INFO waiting:14.9
+2019-08-01 12:51:20,697 logger INFO start 雪球
+2019-08-01 12:51:20,800 logger INFO end 雪球
+2019-08-01 12:51:20,801 logger INFO waiting:14.9
+2019-08-01 12:51:35,702 logger INFO start 雪球
+2019-08-01 12:51:35,807 logger INFO end 雪球
+2019-08-01 12:51:35,808 logger INFO waiting:14.89
+2019-08-01 12:51:50,699 logger INFO start 雪球
+2019-08-01 12:51:50,799 logger INFO end 雪球
+2019-08-01 12:51:50,799 logger INFO waiting:14.9
+2019-08-01 12:52:05,700 logger INFO start 雪球
+2019-08-01 12:52:05,801 logger INFO end 雪球
+2019-08-01 12:52:05,802 logger INFO waiting:14.9
+2019-08-01 12:52:20,702 logger INFO start 雪球
+2019-08-01 12:52:20,800 logger INFO end 雪球
+2019-08-01 12:52:20,800 logger INFO waiting:14.9
+2019-08-01 12:52:35,700 logger INFO start 雪球
+2019-08-01 12:52:35,820 logger INFO end 雪球
+2019-08-01 12:52:35,821 logger INFO waiting:14.88
+2019-08-01 12:52:50,701 logger INFO start 雪球
+2019-08-01 12:52:50,803 logger INFO end 雪球
+2019-08-01 12:52:50,803 logger INFO waiting:14.9
+2019-08-01 12:53:05,704 logger INFO start 雪球
+2019-08-01 12:53:05,803 logger INFO end 雪球
+2019-08-01 12:53:05,804 logger INFO waiting:14.9
+2019-08-01 12:53:20,705 logger INFO start 雪球
+2019-08-01 12:53:20,814 logger INFO end 雪球
+2019-08-01 12:53:20,814 logger INFO waiting:14.89
+2019-08-01 12:53:35,705 logger INFO start 雪球
+2019-08-01 12:53:35,799 logger INFO end 雪球
+2019-08-01 12:53:35,800 logger INFO waiting:14.91
+2019-08-01 12:53:50,710 logger INFO start 雪球
+2019-08-01 12:53:50,819 logger INFO end 雪球
+2019-08-01 12:53:50,819 logger INFO waiting:14.89
+2019-08-01 12:54:05,711 logger INFO start 雪球
+2019-08-01 12:54:05,811 logger INFO end 雪球
+2019-08-01 12:54:05,812 logger INFO waiting:14.9
+2019-08-01 12:54:20,714 logger INFO start 雪球
+2019-08-01 12:54:20,819 logger INFO end 雪球
+2019-08-01 12:54:20,819 logger INFO waiting:14.89
+2019-08-01 12:54:35,711 logger INFO start 雪球
+2019-08-01 12:54:35,823 logger INFO end 雪球
+2019-08-01 12:54:35,824 logger INFO waiting:14.89
+2019-08-01 12:54:50,715 logger INFO start 雪球
+2019-08-01 12:54:50,818 logger INFO end 雪球
+2019-08-01 12:54:50,818 logger INFO waiting:14.9
+2019-08-01 12:55:05,720 logger INFO start 雪球
+2019-08-01 12:55:05,817 logger INFO end 雪球
+2019-08-01 12:55:05,817 logger INFO waiting:14.9
+2019-08-01 12:55:20,719 logger INFO start 雪球
+2019-08-01 12:55:20,829 logger INFO end 雪球
+2019-08-01 12:55:20,830 logger INFO waiting:14.89
+2019-08-01 12:55:35,722 logger INFO start 雪球
+2019-08-01 12:55:35,835 logger INFO end 雪球
+2019-08-01 12:55:35,835 logger INFO waiting:14.89
+2019-08-01 12:55:50,727 logger INFO start 雪球
+2019-08-01 12:55:50,850 logger INFO end 雪球
+2019-08-01 12:55:50,850 logger INFO waiting:14.88
+2019-08-01 12:56:05,732 logger INFO start 雪球
+2019-08-01 12:56:05,842 logger INFO end 雪球
+2019-08-01 12:56:05,842 logger INFO waiting:14.89
+2019-08-01 12:56:20,734 logger INFO start 雪球
+2019-08-01 12:56:20,834 logger INFO end 雪球
+2019-08-01 12:56:20,835 logger INFO waiting:14.9
+2019-08-01 12:56:35,736 logger INFO start 雪球
+2019-08-01 12:56:35,830 logger INFO end 雪球
+2019-08-01 12:56:35,830 logger INFO waiting:14.91
+2019-08-01 12:56:50,742 logger INFO start 雪球
+2019-08-01 12:56:50,844 logger INFO end 雪球
+2019-08-01 12:56:50,844 logger INFO waiting:14.9
+2019-08-01 12:57:05,745 logger INFO start 雪球
+2019-08-01 12:57:05,844 logger INFO end 雪球
+2019-08-01 12:57:05,844 logger INFO waiting:14.9
+2019-08-01 12:57:20,746 logger INFO start 雪球
+2019-08-01 12:57:20,857 logger INFO end 雪球
+2019-08-01 12:57:20,857 logger INFO waiting:14.89
+2019-08-01 12:57:35,749 logger INFO start 雪球
+2019-08-01 12:57:35,844 logger INFO end 雪球
+2019-08-01 12:57:35,844 logger INFO waiting:14.9
+2019-08-01 12:57:50,746 logger INFO start 雪球
+2019-08-01 12:57:50,844 logger INFO end 雪球
+2019-08-01 12:57:50,844 logger INFO waiting:14.9
+2019-08-01 12:58:05,745 logger INFO start 雪球
+2019-08-01 12:58:05,847 logger INFO end 雪球
+2019-08-01 12:58:05,847 logger INFO waiting:14.9
+2019-08-01 12:58:20,748 logger INFO start 雪球
+2019-08-01 12:58:20,851 logger INFO end 雪球
+2019-08-01 12:58:20,851 logger INFO waiting:14.9
+2019-08-01 12:58:35,753 logger INFO start 雪球
+2019-08-01 12:58:35,874 logger INFO end 雪球
+2019-08-01 12:58:35,874 logger INFO waiting:14.88
+2019-08-01 12:58:50,755 logger INFO start 雪球
+2019-08-01 12:58:50,863 logger INFO end 雪球
+2019-08-01 12:58:50,863 logger INFO waiting:14.89
+2019-08-01 12:59:05,754 logger INFO start 雪球
+2019-08-01 12:59:05,850 logger INFO end 雪球
+2019-08-01 12:59:05,850 logger INFO waiting:14.9
+2019-08-01 12:59:20,752 logger INFO start 雪球
+2019-08-01 12:59:20,848 logger INFO end 雪球
+2019-08-01 12:59:20,848 logger INFO waiting:14.9
+2019-08-01 12:59:35,750 logger INFO start 雪球
+2019-08-01 12:59:35,862 logger INFO end 雪球
+2019-08-01 12:59:35,862 logger INFO waiting:14.89
+2019-08-01 12:59:50,754 logger INFO start 雪球
+2019-08-01 12:59:50,855 logger INFO end 雪球
+2019-08-01 12:59:50,856 logger INFO waiting:14.9
+2019-08-01 13:00:05,757 logger INFO start 雪球
+2019-08-01 13:00:05,857 logger INFO end 雪球
+2019-08-01 13:00:05,858 logger INFO waiting:14.9
+2019-08-01 13:00:20,760 logger INFO start 雪球
+2019-08-01 13:00:20,894 logger INFO end 雪球
+2019-08-01 13:00:20,894 logger INFO waiting:14.87
+2019-08-01 13:00:35,765 logger INFO start 雪球
+2019-08-01 13:00:35,867 logger INFO end 雪球
+2019-08-01 13:00:35,868 logger INFO waiting:14.9
+2019-08-01 13:00:50,769 logger INFO start 雪球
+2019-08-01 13:00:50,877 logger INFO end 雪球
+2019-08-01 13:00:50,877 logger INFO waiting:14.89
+2019-08-01 13:01:05,769 logger INFO start 雪球
+2019-08-01 13:01:05,897 logger INFO end 雪球
+2019-08-01 13:01:05,898 logger INFO waiting:14.87
+2019-08-01 13:01:20,769 logger INFO start 雪球
+2019-08-01 13:01:20,873 logger INFO end 雪球
+2019-08-01 13:01:20,874 logger INFO waiting:14.9
+2019-08-01 13:01:35,775 logger INFO start 雪球
+2019-08-01 13:01:35,877 logger INFO end 雪球
+2019-08-01 13:01:35,878 logger INFO waiting:14.9
+2019-08-01 13:01:50,779 logger INFO start 雪球
+2019-08-01 13:01:50,887 logger INFO end 雪球
+2019-08-01 13:01:50,888 logger INFO waiting:14.89
+2019-08-01 13:02:05,779 logger INFO start 雪球
+2019-08-01 13:02:05,880 logger INFO end 雪球
+2019-08-01 13:02:05,880 logger INFO waiting:14.9
+2019-08-01 13:02:20,782 logger INFO start 雪球
+2019-08-01 13:02:20,885 logger INFO end 雪球
+2019-08-01 13:02:20,886 logger INFO waiting:14.9
+2019-08-01 13:02:35,787 logger INFO start 雪球
+2019-08-01 13:02:35,895 logger INFO end 雪球
+2019-08-01 13:02:35,895 logger INFO waiting:14.89
+2019-08-01 13:02:50,787 logger INFO start 雪球
+2019-08-01 13:02:51,064 logger INFO end 雪球
+2019-08-01 13:02:51,065 logger INFO waiting:14.72
+2019-08-01 13:03:05,785 logger INFO start 雪球
+2019-08-01 13:03:06,139 logger INFO end 雪球
+2019-08-01 13:03:06,140 logger INFO waiting:14.65
+2019-08-01 13:03:20,791 logger INFO start 雪球
+2019-08-01 13:03:20,892 logger INFO end 雪球
+2019-08-01 13:03:20,893 logger INFO waiting:14.9
+2019-08-01 13:03:35,796 logger INFO start 雪球
+2019-08-01 13:03:35,899 logger INFO end 雪球
+2019-08-01 13:03:35,900 logger INFO waiting:14.9
+2019-08-01 13:03:50,801 logger INFO start 雪球
+2019-08-01 13:03:52,060 logger INFO end 雪球
+2019-08-01 13:03:52,060 logger INFO waiting:13.74
+2019-08-01 13:04:05,801 logger INFO start 雪球
+2019-08-01 13:04:05,920 logger INFO end 雪球
+2019-08-01 13:04:05,921 logger INFO waiting:14.88
+2019-08-01 13:04:20,803 logger INFO start 雪球
+2019-08-01 13:04:20,907 logger INFO end 雪球
+2019-08-01 13:04:20,907 logger INFO waiting:14.9
+2019-08-01 13:04:35,809 logger INFO start 雪球
+2019-08-01 13:04:36,016 logger INFO end 雪球
+2019-08-01 13:04:36,017 logger INFO waiting:14.79
+2019-08-01 13:04:50,809 logger INFO start 雪球
+2019-08-01 13:04:50,917 logger INFO end 雪球
+2019-08-01 13:04:50,917 logger INFO waiting:14.89
+2019-08-01 13:05:05,809 logger INFO start 雪球
+2019-08-01 13:05:05,908 logger INFO end 雪球
+2019-08-01 13:05:05,909 logger INFO waiting:14.9
+2019-08-01 13:05:20,810 logger INFO start 雪球
+2019-08-01 13:05:20,918 logger INFO end 雪球
+2019-08-01 13:05:20,919 logger INFO waiting:14.89
+2019-08-01 13:05:35,811 logger INFO start 雪球
+2019-08-01 13:05:35,915 logger INFO end 雪球
+2019-08-01 13:05:35,916 logger INFO waiting:14.9
+2019-08-01 13:05:50,817 logger INFO start 雪球
+2019-08-01 13:05:50,943 logger INFO end 雪球
+2019-08-01 13:05:50,943 logger INFO waiting:14.87
+2019-08-01 13:06:05,815 logger INFO start 雪球
+2019-08-01 13:06:05,920 logger INFO end 雪球
+2019-08-01 13:06:05,920 logger INFO waiting:14.89
+2019-08-01 13:06:20,812 logger INFO start 雪球
+2019-08-01 13:06:20,925 logger INFO end 雪球
+2019-08-01 13:06:20,926 logger INFO waiting:14.89
+2019-08-01 13:06:35,817 logger INFO start 雪球
+2019-08-01 13:06:35,973 logger INFO end 雪球
+2019-08-01 13:06:35,973 logger INFO waiting:14.84
+2019-08-01 13:06:50,814 logger INFO start 雪球
+2019-08-01 13:06:50,920 logger INFO end 雪球
+2019-08-01 13:06:50,921 logger INFO waiting:14.89
+2019-08-01 13:07:05,813 logger INFO start 雪球
+2019-08-01 13:07:05,934 logger INFO end 雪球
+2019-08-01 13:07:05,934 logger INFO waiting:14.88
+2019-08-01 13:07:20,816 logger INFO start 雪球
+2019-08-01 13:07:20,924 logger INFO end 雪球
+2019-08-01 13:07:20,924 logger INFO waiting:14.89
+2019-08-01 13:07:35,816 logger INFO start 雪球
+2019-08-01 13:07:35,937 logger INFO end 雪球
+2019-08-01 13:07:35,938 logger INFO waiting:14.88
+2019-08-01 13:07:50,820 logger INFO start 雪球
+2019-08-01 13:07:50,945 logger INFO end 雪球
+2019-08-01 13:07:50,945 logger INFO waiting:14.88
+2019-08-01 13:08:05,827 logger INFO start 雪球
+2019-08-01 13:08:05,948 logger INFO end 雪球
+2019-08-01 13:08:05,949 logger INFO waiting:14.88
+2019-08-01 13:08:20,831 logger INFO start 雪球
+2019-08-01 13:08:20,937 logger INFO end 雪球
+2019-08-01 13:08:20,937 logger INFO waiting:14.89
+2019-08-01 13:08:35,829 logger INFO start 雪球
+2019-08-01 13:08:35,943 logger INFO end 雪球
+2019-08-01 13:08:35,944 logger INFO waiting:14.89
+2019-08-01 13:08:50,835 logger INFO start 雪球
+2019-08-01 13:08:50,949 logger INFO end 雪球
+2019-08-01 13:08:50,949 logger INFO waiting:14.89
+2019-08-01 13:09:05,841 logger INFO start 雪球
+2019-08-01 13:09:06,203 logger INFO end 雪球
+2019-08-01 13:09:06,203 logger INFO waiting:14.64
+2019-08-01 13:09:20,845 logger INFO start 雪球
+2019-08-01 13:09:20,948 logger INFO end 雪球
+2019-08-01 13:09:20,948 logger INFO waiting:14.9
+2019-08-01 13:09:35,850 logger INFO start 雪球
+2019-08-01 13:09:35,948 logger INFO end 雪球
+2019-08-01 13:09:35,948 logger INFO waiting:14.9
+2019-08-01 13:09:50,850 logger INFO start 雪球
+2019-08-01 13:09:51,204 logger INFO end 雪球
+2019-08-01 13:09:51,205 logger INFO waiting:14.65
+2019-08-01 13:10:05,856 logger INFO start 雪球
+2019-08-01 13:10:05,976 logger INFO end 雪球
+2019-08-01 13:10:05,977 logger INFO waiting:14.88
+2019-08-01 13:10:20,858 logger INFO start 雪球
+2019-08-01 13:10:20,962 logger INFO end 雪球
+2019-08-01 13:10:20,962 logger INFO waiting:14.9
+2019-08-01 13:10:35,863 logger INFO start 雪球
+2019-08-01 13:10:35,980 logger INFO end 雪球
+2019-08-01 13:10:35,980 logger INFO waiting:14.88
+2019-08-01 13:10:50,861 logger INFO start 雪球
+2019-08-01 13:10:50,969 logger INFO end 雪球
+2019-08-01 13:10:50,969 logger INFO waiting:14.89
+2019-08-01 13:11:05,860 logger INFO start 雪球
+2019-08-01 13:11:05,967 logger INFO end 雪球
+2019-08-01 13:11:05,967 logger INFO waiting:14.89
+2019-08-01 13:11:20,858 logger INFO start 雪球
+2019-08-01 13:11:20,960 logger INFO end 雪球
+2019-08-01 13:11:20,960 logger INFO waiting:14.9
+2019-08-01 13:11:35,862 logger INFO start 雪球
+2019-08-01 13:11:36,016 logger INFO end 雪球
+2019-08-01 13:11:36,016 logger INFO waiting:14.85
+2019-08-01 13:11:50,867 logger INFO start 雪球
+2019-08-01 13:11:50,972 logger INFO end 雪球
+2019-08-01 13:11:50,972 logger INFO waiting:14.89
+2019-08-01 13:12:05,863 logger INFO start 雪球
+2019-08-01 13:12:05,968 logger INFO end 雪球
+2019-08-01 13:12:05,968 logger INFO waiting:14.9
+2019-08-01 13:12:20,871 logger INFO start 雪球
+2019-08-01 13:12:20,975 logger INFO end 雪球
+2019-08-01 13:12:20,976 logger INFO waiting:14.9
+2019-08-01 13:12:35,876 logger INFO start 雪球
+2019-08-01 13:12:35,973 logger INFO end 雪球
+2019-08-01 13:12:35,973 logger INFO waiting:14.9
+2019-08-01 13:12:50,874 logger INFO start 雪球
+2019-08-01 13:12:50,984 logger INFO end 雪球
+2019-08-01 13:12:50,984 logger INFO waiting:14.89
+2019-08-01 13:13:05,875 logger INFO start 雪球
+2019-08-01 13:13:05,979 logger INFO end 雪球
+2019-08-01 13:13:05,979 logger INFO waiting:14.9
+2019-08-01 13:13:20,880 logger INFO start 雪球
+2019-08-01 13:13:21,001 logger INFO end 雪球
+2019-08-01 13:13:21,002 logger INFO waiting:14.88
+2019-08-01 13:13:35,883 logger INFO start 雪球
+2019-08-01 13:13:35,981 logger INFO end 雪球
+2019-08-01 13:13:35,982 logger INFO waiting:14.9
+2019-08-01 13:13:50,883 logger INFO start 雪球
+2019-08-01 13:13:50,983 logger INFO end 雪球
+2019-08-01 13:13:50,983 logger INFO waiting:14.9
+2019-08-01 13:14:05,886 logger INFO start 雪球
+2019-08-01 13:14:05,986 logger INFO end 雪球
+2019-08-01 13:14:05,987 logger INFO waiting:14.9
+2019-08-01 13:14:20,888 logger INFO start 雪球
+2019-08-01 13:14:20,994 logger INFO end 雪球
+2019-08-01 13:14:20,994 logger INFO waiting:14.89
+2019-08-01 13:14:35,884 logger INFO start 雪球
+2019-08-01 13:14:35,991 logger INFO end 雪球
+2019-08-01 13:14:35,991 logger INFO waiting:14.89
+2019-08-01 13:14:50,882 logger INFO start 雪球
+2019-08-01 13:14:51,455 logger INFO end 雪球
+2019-08-01 13:14:51,456 logger INFO waiting:14.43
+2019-08-01 13:15:05,887 logger INFO start 雪球
+2019-08-01 13:15:05,994 logger INFO end 雪球
+2019-08-01 13:15:05,994 logger INFO waiting:14.89
+2019-08-01 13:15:20,885 logger INFO start 雪球
+2019-08-01 13:15:20,990 logger INFO end 雪球
+2019-08-01 13:15:20,990 logger INFO waiting:14.89
+2019-08-01 13:15:35,882 logger INFO start 雪球
+2019-08-01 13:15:35,973 logger INFO end 雪球
+2019-08-01 13:15:35,973 logger INFO waiting:14.91
+2019-08-01 13:15:50,884 logger INFO start 雪球
+2019-08-01 13:15:51,426 logger INFO end 雪球
+2019-08-01 13:15:51,426 logger INFO waiting:14.46
+2019-08-01 13:16:05,888 logger INFO start 雪球
+2019-08-01 13:16:06,539 logger INFO end 雪球
+2019-08-01 13:16:06,539 logger INFO waiting:14.35
+2019-08-01 13:16:20,890 logger INFO start 雪球
+2019-08-01 13:16:22,499 logger INFO end 雪球
+2019-08-01 13:16:22,500 logger INFO waiting:13.39
+2019-08-01 13:16:35,894 logger INFO start 雪球
+2019-08-01 13:16:36,237 logger INFO end 雪球
+2019-08-01 13:16:36,237 logger INFO waiting:14.66
+2019-08-01 13:16:50,898 logger INFO start 雪球
+2019-08-01 13:16:51,056 logger INFO end 雪球
+2019-08-01 13:16:51,056 logger INFO waiting:14.84
+2019-08-01 13:17:05,898 logger INFO start 雪球
+2019-08-01 13:17:06,060 logger INFO end 雪球
+2019-08-01 13:17:06,061 logger INFO waiting:14.84
+2019-08-01 13:17:20,902 logger INFO start 雪球
+2019-08-01 13:17:21,068 logger INFO end 雪球
+2019-08-01 13:17:21,068 logger INFO waiting:14.83
+2019-08-01 13:17:35,899 logger INFO start 雪球
+2019-08-01 13:17:36,065 logger INFO end 雪球
+2019-08-01 13:17:36,066 logger INFO waiting:14.83
+2019-08-01 13:17:50,897 logger INFO start 雪球
+2019-08-01 13:17:51,075 logger INFO end 雪球
+2019-08-01 13:17:51,076 logger INFO waiting:14.82
+2019-08-01 13:18:05,897 logger INFO start 雪球
+2019-08-01 13:18:06,054 logger INFO end 雪球
+2019-08-01 13:18:06,054 logger INFO waiting:14.84
+2019-08-01 13:18:20,896 logger INFO start 雪球
+2019-08-01 13:18:21,054 logger INFO end 雪球
+2019-08-01 13:18:21,054 logger INFO waiting:14.84
+2019-08-01 13:18:35,898 logger INFO start 雪球
+2019-08-01 13:18:36,074 logger INFO end 雪球
+2019-08-01 13:18:36,075 logger INFO waiting:14.83
+2019-08-01 13:18:50,907 logger INFO start 雪球
+2019-08-01 13:18:51,067 logger INFO end 雪球
+2019-08-01 13:18:51,067 logger INFO waiting:14.84
+2019-08-01 13:19:05,908 logger INFO start 雪球
+2019-08-01 13:19:06,076 logger INFO end 雪球
+2019-08-01 13:19:06,076 logger INFO waiting:14.83
+2019-08-01 13:19:20,908 logger INFO start 雪球
+2019-08-01 13:19:21,070 logger INFO end 雪球
+2019-08-01 13:19:21,070 logger INFO waiting:14.84
+2019-08-01 13:19:35,912 logger INFO start 雪球
+2019-08-01 13:19:36,069 logger INFO end 雪球
+2019-08-01 13:19:36,069 logger INFO waiting:14.84
+2019-08-01 13:19:50,910 logger INFO start 雪球
+2019-08-01 13:19:51,070 logger INFO end 雪球
+2019-08-01 13:19:51,070 logger INFO waiting:14.84
+2019-08-01 13:20:05,911 logger INFO start 雪球
+2019-08-01 13:20:06,290 logger INFO end 雪球
+2019-08-01 13:20:06,291 logger INFO waiting:14.62
+2019-08-01 13:20:20,911 logger INFO start 雪球
+2019-08-01 13:20:21,294 logger INFO end 雪球
+2019-08-01 13:20:21,295 logger INFO waiting:14.62
+2019-08-01 13:20:35,916 logger INFO start 雪球
+2019-08-01 13:20:36,077 logger INFO end 雪球
+2019-08-01 13:20:36,077 logger INFO waiting:14.84
+2019-08-01 13:20:50,918 logger INFO start 雪球
+2019-08-01 13:20:51,166 logger INFO end 雪球
+2019-08-01 13:20:51,167 logger INFO waiting:14.75
+2019-08-01 13:21:05,919 logger INFO start 雪球
+2019-08-01 13:21:06,080 logger INFO end 雪球
+2019-08-01 13:21:06,080 logger INFO waiting:14.84
+2019-08-01 13:21:20,921 logger INFO start 雪球
+2019-08-01 13:21:21,095 logger INFO end 雪球
+2019-08-01 13:21:21,095 logger INFO waiting:14.83
+2019-08-01 13:21:35,926 logger INFO start 雪球
+2019-08-01 13:21:36,089 logger INFO end 雪球
+2019-08-01 13:21:36,089 logger INFO waiting:14.84
+2019-08-01 13:21:50,930 logger INFO start 雪球
+2019-08-01 13:21:51,094 logger INFO end 雪球
+2019-08-01 13:21:51,094 logger INFO waiting:14.84
+2019-08-01 13:22:05,934 logger INFO start 雪球
+2019-08-01 13:22:06,109 logger INFO end 雪球
+2019-08-01 13:22:06,110 logger INFO waiting:14.83
+2019-08-01 13:22:20,942 logger INFO start 雪球
+2019-08-01 13:22:21,105 logger INFO end 雪球
+2019-08-01 13:22:21,105 logger INFO waiting:14.84
+2019-08-01 13:22:35,946 logger INFO start 雪球
+2019-08-01 13:22:36,258 logger INFO end 雪球
+2019-08-01 13:22:36,259 logger INFO waiting:14.69
+2019-08-01 13:22:50,950 logger INFO start 雪球
+2019-08-01 13:22:51,122 logger INFO end 雪球
+2019-08-01 13:22:51,123 logger INFO waiting:14.83
+2019-08-01 13:23:05,954 logger INFO start 雪球
+2019-08-01 13:23:06,115 logger INFO end 雪球
+2019-08-01 13:23:06,115 logger INFO waiting:14.84
+2019-08-01 13:23:20,957 logger INFO start 雪球
+2019-08-01 13:23:21,121 logger INFO end 雪球
+2019-08-01 13:23:21,122 logger INFO waiting:14.84
+2019-08-01 13:23:35,965 logger INFO start 雪球
+2019-08-01 13:23:36,135 logger INFO end 雪球
+2019-08-01 13:23:36,136 logger INFO waiting:14.83
+2019-08-01 13:23:50,967 logger INFO start 雪球
+2019-08-01 13:23:51,147 logger INFO end 雪球
+2019-08-01 13:23:51,148 logger INFO waiting:14.82
+2019-08-01 13:24:05,968 logger INFO start 雪球
+2019-08-01 13:24:06,126 logger INFO end 雪球
+2019-08-01 13:24:06,127 logger INFO waiting:14.84
+2019-08-01 13:24:20,967 logger INFO start 雪球
+2019-08-01 13:24:21,125 logger INFO end 雪球
+2019-08-01 13:24:21,126 logger INFO waiting:14.84
+2019-08-01 13:24:35,967 logger INFO start 雪球
+2019-08-01 13:24:36,139 logger INFO end 雪球
+2019-08-01 13:24:36,139 logger INFO waiting:14.83
+2019-08-01 13:24:50,970 logger INFO start 雪球
+2019-08-01 13:24:51,351 logger INFO end 雪球
+2019-08-01 13:24:51,351 logger INFO waiting:14.62
+2019-08-01 13:25:05,972 logger INFO start 雪球
+2019-08-01 13:25:06,127 logger INFO end 雪球
+2019-08-01 13:25:06,127 logger INFO waiting:14.85
+2019-08-01 13:25:20,978 logger INFO start 雪球
+2019-08-01 13:25:21,143 logger INFO end 雪球
+2019-08-01 13:25:21,143 logger INFO waiting:14.83
+2019-08-01 13:25:35,975 logger INFO start 雪球
+2019-08-01 13:25:36,131 logger INFO end 雪球
+2019-08-01 13:25:36,131 logger INFO waiting:14.84
+2019-08-01 13:25:50,973 logger INFO start 雪球
+2019-08-01 13:25:51,133 logger INFO end 雪球
+2019-08-01 13:25:51,134 logger INFO waiting:14.84
+2019-08-01 13:26:05,976 logger INFO start 雪球
+2019-08-01 13:26:06,128 logger INFO end 雪球
+2019-08-01 13:26:06,128 logger INFO waiting:14.85
+2019-08-01 13:26:20,980 logger INFO start 雪球
+2019-08-01 13:26:21,168 logger INFO end 雪球
+2019-08-01 13:26:21,168 logger INFO waiting:14.81
+2019-08-01 13:26:35,980 logger INFO start 雪球
+2019-08-01 13:26:36,142 logger INFO end 雪球
+2019-08-01 13:26:36,142 logger INFO waiting:14.84
+2019-08-01 13:26:50,983 logger INFO start 雪球
+2019-08-01 13:26:51,145 logger INFO end 雪球
+2019-08-01 13:26:51,145 logger INFO waiting:14.84
+2019-08-01 13:27:05,987 logger INFO start 雪球
+2019-08-01 13:27:06,150 logger INFO end 雪球
+2019-08-01 13:27:06,151 logger INFO waiting:14.84
+2019-08-01 13:27:20,993 logger INFO start 雪球
+2019-08-01 13:27:21,154 logger INFO end 雪球
+2019-08-01 13:27:21,155 logger INFO waiting:14.84
+2019-08-01 13:27:35,997 logger INFO start 雪球
+2019-08-01 13:27:36,105 logger INFO end 雪球
+2019-08-01 13:27:36,106 logger INFO waiting:14.89
+2019-08-01 13:27:50,997 logger INFO start 雪球
+2019-08-01 13:27:51,190 logger INFO end 雪球
+2019-08-01 13:27:51,190 logger INFO waiting:14.81
+2019-08-01 13:28:06,002 logger INFO start 雪球
+2019-08-01 13:28:06,120 logger INFO end 雪球
+2019-08-01 13:28:06,120 logger INFO waiting:14.88
+2019-08-01 13:28:21,001 logger INFO start 雪球
+2019-08-01 13:28:21,154 logger INFO end 雪球
+2019-08-01 13:28:21,154 logger INFO waiting:14.85
+2019-08-01 13:28:36,006 logger INFO start 雪球
+2019-08-01 13:28:36,108 logger INFO end 雪球
+2019-08-01 13:28:36,108 logger INFO waiting:14.9
+2019-08-01 13:28:51,010 logger INFO start 雪球
+2019-08-01 13:28:51,117 logger INFO end 雪球
+2019-08-01 13:28:51,117 logger INFO waiting:14.89
+2019-08-01 13:29:06,008 logger INFO start 雪球
+2019-08-01 13:29:06,116 logger INFO end 雪球
+2019-08-01 13:29:06,117 logger INFO waiting:14.89
+2019-08-01 13:29:21,008 logger INFO start 雪球
+2019-08-01 13:29:21,120 logger INFO end 雪球
+2019-08-01 13:29:21,120 logger INFO waiting:14.89
+2019-08-01 13:29:36,011 logger INFO start 雪球
+2019-08-01 13:29:36,118 logger INFO end 雪球
+2019-08-01 13:29:36,119 logger INFO waiting:14.89
+2019-08-01 13:29:51,010 logger INFO start 雪球
+2019-08-01 13:29:51,117 logger INFO end 雪球
+2019-08-01 13:29:51,117 logger INFO waiting:14.89
+2019-08-01 13:30:06,008 logger INFO start 雪球
+2019-08-01 13:30:06,119 logger INFO end 雪球
+2019-08-01 13:30:06,119 logger INFO waiting:14.89
+2019-08-01 13:30:21,011 logger INFO start 雪球
+2019-08-01 13:30:21,115 logger INFO end 雪球
+2019-08-01 13:30:21,116 logger INFO waiting:14.9
+2019-08-01 13:30:36,016 logger INFO start 雪球
+2019-08-01 13:30:36,123 logger INFO end 雪球
+2019-08-01 13:30:36,123 logger INFO waiting:14.89
+2019-08-01 13:30:51,014 logger INFO start 雪球
+2019-08-01 13:30:51,121 logger INFO end 雪球
+2019-08-01 13:30:51,121 logger INFO waiting:14.89
+2019-08-01 13:31:06,012 logger INFO start 雪球
+2019-08-01 13:31:06,130 logger INFO end 雪球
+2019-08-01 13:31:06,130 logger INFO waiting:14.88
+2019-08-01 13:31:21,011 logger INFO start 雪球
+2019-08-01 13:31:21,131 logger INFO end 雪球
+2019-08-01 13:31:21,132 logger INFO waiting:14.88
+2019-08-01 13:31:36,014 logger INFO start 雪球
+2019-08-01 13:31:36,122 logger INFO end 雪球
+2019-08-01 13:31:36,122 logger INFO waiting:14.89
+2019-08-01 13:31:51,013 logger INFO start 雪球
+2019-08-01 13:31:51,123 logger INFO end 雪球
+2019-08-01 13:31:51,124 logger INFO waiting:14.89
+2019-08-01 13:32:06,017 logger INFO start 雪球
+2019-08-01 13:32:06,122 logger INFO end 雪球
+2019-08-01 13:32:06,122 logger INFO waiting:14.89
+2019-08-01 13:32:21,013 logger INFO start 雪球
+2019-08-01 13:32:21,122 logger INFO end 雪球
+2019-08-01 13:32:21,122 logger INFO waiting:14.89
+2019-08-01 13:32:36,014 logger INFO start 雪球
+2019-08-01 13:32:36,130 logger INFO end 雪球
+2019-08-01 13:32:36,130 logger INFO waiting:14.88
+2019-08-01 13:32:51,012 logger INFO start 雪球
+2019-08-01 13:32:51,130 logger INFO end 雪球
+2019-08-01 13:32:51,130 logger INFO waiting:14.88
+2019-08-01 13:33:06,012 logger INFO start 雪球
+2019-08-01 13:33:06,118 logger INFO end 雪球
+2019-08-01 13:33:06,118 logger INFO waiting:14.89
+2019-08-01 13:33:21,009 logger INFO start 雪球
+2019-08-01 13:33:21,122 logger INFO end 雪球
+2019-08-01 13:33:21,122 logger INFO waiting:14.89
+2019-08-01 13:33:36,013 logger INFO start 雪球
+2019-08-01 13:33:36,120 logger INFO end 雪球
+2019-08-01 13:33:36,121 logger INFO waiting:14.89
+2019-08-01 13:33:51,011 logger INFO start 雪球
+2019-08-01 13:33:51,123 logger INFO end 雪球
+2019-08-01 13:33:51,124 logger INFO waiting:14.89
+2019-08-01 13:34:06,014 logger INFO start 雪球
+2019-08-01 13:34:06,119 logger INFO end 雪球
+2019-08-01 13:34:06,119 logger INFO waiting:14.9
+2019-08-01 13:34:21,020 logger INFO start 雪球
+2019-08-01 13:34:21,127 logger INFO end 雪球
+2019-08-01 13:34:21,127 logger INFO waiting:14.89
+2019-08-01 13:34:36,019 logger INFO start 雪球
+2019-08-01 13:34:36,122 logger INFO end 雪球
+2019-08-01 13:34:36,124 logger INFO waiting:14.9
+2019-08-01 13:34:51,025 logger INFO start 雪球
+2019-08-01 13:34:51,129 logger INFO end 雪球
+2019-08-01 13:34:51,129 logger INFO waiting:14.9
+2019-08-01 13:35:06,030 logger INFO start 雪球
+2019-08-01 13:35:06,141 logger INFO end 雪球
+2019-08-01 13:35:06,142 logger INFO waiting:14.89
+2019-08-01 13:35:21,033 logger INFO start 雪球
+2019-08-01 13:35:21,147 logger INFO end 雪球
+2019-08-01 13:35:21,147 logger INFO waiting:14.89
+2019-08-01 13:35:36,039 logger INFO start 雪球
+2019-08-01 13:35:36,202 logger INFO end 雪球
+2019-08-01 13:35:36,203 logger INFO waiting:14.84
+2019-08-01 13:35:51,045 logger INFO start 雪球
+2019-08-01 13:35:51,158 logger INFO end 雪球
+2019-08-01 13:35:51,158 logger INFO waiting:14.89
+2019-08-01 13:36:06,049 logger INFO start 雪球
+2019-08-01 13:36:06,149 logger INFO end 雪球
+2019-08-01 13:36:06,149 logger INFO waiting:14.9
+2019-08-01 13:36:21,050 logger INFO start 雪球
+2019-08-01 13:36:21,157 logger INFO end 雪球
+2019-08-01 13:36:21,157 logger INFO waiting:14.89
+2019-08-01 13:36:36,048 logger INFO start 雪球
+2019-08-01 13:36:36,146 logger INFO end 雪球
+2019-08-01 13:36:36,147 logger INFO waiting:14.9
+2019-08-01 13:36:51,047 logger INFO start 雪球
+2019-08-01 13:36:51,154 logger INFO end 雪球
+2019-08-01 13:36:51,154 logger INFO waiting:14.89
+2019-08-01 13:37:06,046 logger INFO start 雪球
+2019-08-01 13:37:06,165 logger INFO end 雪球
+2019-08-01 13:37:06,165 logger INFO waiting:14.88
+2019-08-01 13:37:21,046 logger INFO start 雪球
+2019-08-01 13:37:21,150 logger INFO end 雪球
+2019-08-01 13:37:21,150 logger INFO waiting:14.9
+2019-08-01 13:37:36,052 logger INFO start 雪球
+2019-08-01 13:37:36,157 logger INFO end 雪球
+2019-08-01 13:37:36,158 logger INFO waiting:14.89
+2019-08-01 13:37:51,049 logger INFO start 雪球
+2019-08-01 13:37:51,153 logger INFO end 雪球
+2019-08-01 13:37:51,153 logger INFO waiting:14.9
+2019-08-01 13:38:06,055 logger INFO start 雪球
+2019-08-01 13:38:06,155 logger INFO end 雪球
+2019-08-01 13:38:06,155 logger INFO waiting:14.9
+2019-08-01 13:38:21,056 logger INFO start 雪球
+2019-08-01 13:38:21,156 logger INFO end 雪球
+2019-08-01 13:38:21,158 logger INFO waiting:14.9
+2019-08-01 13:38:36,059 logger INFO start 雪球
+2019-08-01 13:38:36,164 logger INFO end 雪球
+2019-08-01 13:38:36,165 logger INFO waiting:14.9
+2019-08-01 13:38:51,067 logger INFO start 雪球
+2019-08-01 13:38:51,171 logger INFO end 雪球
+2019-08-01 13:38:51,171 logger INFO waiting:14.9
+2019-08-01 13:39:06,073 logger INFO start 雪球
+2019-08-01 13:39:06,193 logger INFO end 雪球
+2019-08-01 13:39:06,194 logger INFO waiting:14.88
+2019-08-01 13:39:21,076 logger INFO start 雪球
+2019-08-01 13:39:21,188 logger INFO end 雪球
+2019-08-01 13:39:21,207 logger INFO waiting:14.9
+2019-08-01 13:39:36,108 logger INFO start 雪球
+2019-08-01 13:39:37,441 logger INFO end 雪球
+2019-08-01 13:39:37,446 logger INFO waiting:13.69
+2019-08-01 13:39:51,148 logger INFO start 雪球
+2019-08-01 13:39:51,262 logger INFO end 雪球
+2019-08-01 13:39:51,287 logger INFO waiting:14.9
+2019-08-01 13:40:06,198 logger INFO start 雪球
+2019-08-01 13:40:06,305 logger INFO end 雪球
+2019-08-01 13:40:06,305 logger INFO waiting:14.89
+2019-08-01 13:40:21,196 logger INFO start 雪球
+2019-08-01 13:40:21,299 logger INFO end 雪球
+2019-08-01 13:40:21,299 logger INFO waiting:14.9
+2019-08-01 13:40:36,200 logger INFO start 雪球
+2019-08-01 13:40:36,313 logger INFO end 雪球
+2019-08-01 13:40:36,316 logger INFO waiting:14.89
+2019-08-01 13:40:51,207 logger INFO start 雪球
+2019-08-01 13:40:51,328 logger INFO end 雪球
+2019-08-01 13:40:51,328 logger INFO waiting:14.88
+2019-08-01 13:41:06,210 logger INFO start 雪球
+2019-08-01 13:41:06,313 logger INFO end 雪球
+2019-08-01 13:41:06,314 logger INFO waiting:14.9
+2019-08-01 13:41:21,215 logger INFO start 雪球
+2019-08-01 13:41:21,314 logger INFO end 雪球
+2019-08-01 13:41:21,314 logger INFO waiting:14.9
+2019-08-01 13:41:36,216 logger INFO start 雪球
+2019-08-01 13:41:36,318 logger INFO end 雪球
+2019-08-01 13:41:36,319 logger INFO waiting:14.9
+2019-08-01 13:41:51,220 logger INFO start 雪球
+2019-08-01 13:41:51,317 logger INFO end 雪球
+2019-08-01 13:41:51,318 logger INFO waiting:14.9
+2019-08-01 13:42:06,219 logger INFO start 雪球
+2019-08-01 13:42:06,324 logger INFO end 雪球
+2019-08-01 13:42:06,324 logger INFO waiting:14.9
+2019-08-01 13:42:21,225 logger INFO start 雪球
+2019-08-01 13:42:21,408 logger INFO end 雪球
+2019-08-01 13:42:21,409 logger INFO waiting:14.82
+2019-08-01 13:42:36,230 logger INFO start 雪球
+2019-08-01 13:42:36,347 logger INFO end 雪球
+2019-08-01 13:42:36,347 logger INFO waiting:14.88
+2019-08-01 13:42:51,228 logger INFO start 雪球
+2019-08-01 13:42:51,332 logger INFO end 雪球
+2019-08-01 13:42:51,333 logger INFO waiting:14.9
+2019-08-01 13:43:06,234 logger INFO start 雪球
+2019-08-01 13:43:06,594 logger INFO end 雪球
+2019-08-01 13:43:06,600 logger INFO waiting:14.64
+2019-08-01 13:43:21,241 logger INFO start 雪球
+2019-08-01 13:43:21,343 logger INFO end 雪球
+2019-08-01 13:43:21,344 logger INFO waiting:14.9
+2019-08-01 13:43:36,245 logger INFO start 雪球
+2019-08-01 13:43:36,345 logger INFO end 雪球
+2019-08-01 13:43:36,345 logger INFO waiting:14.9
+2019-08-01 13:43:51,248 logger INFO start 雪球
+2019-08-01 13:43:51,352 logger INFO end 雪球
+2019-08-01 13:43:51,355 logger INFO waiting:14.9
+2019-08-01 13:44:06,257 logger INFO start 雪球
+2019-08-01 13:44:06,366 logger INFO end 雪球
+2019-08-01 13:44:06,366 logger INFO waiting:14.89
+2019-08-01 13:44:21,258 logger INFO start 雪球
+2019-08-01 13:44:21,364 logger INFO end 雪球
+2019-08-01 13:44:21,365 logger INFO waiting:14.89
+2019-08-01 13:44:36,255 logger INFO start 雪球
+2019-08-01 13:44:36,512 logger INFO end 雪球
+2019-08-01 13:44:36,512 logger INFO waiting:14.74
+2019-08-01 13:44:51,254 logger INFO start 雪球
+2019-08-01 13:44:51,361 logger INFO end 雪球
+2019-08-01 13:44:51,362 logger INFO waiting:14.89
+2019-08-01 13:45:06,252 logger INFO start 雪球
+2019-08-01 13:45:06,357 logger INFO end 雪球
+2019-08-01 13:45:06,358 logger INFO waiting:14.89
+2019-08-01 13:45:21,249 logger INFO start 雪球
+2019-08-01 13:45:21,354 logger INFO end 雪球
+2019-08-01 13:45:21,355 logger INFO waiting:14.89
+2019-08-01 13:45:36,247 logger INFO start 雪球
+2019-08-01 13:45:36,358 logger INFO end 雪球
+2019-08-01 13:45:36,359 logger INFO waiting:14.89
+2019-08-01 13:45:51,250 logger INFO start 雪球
+2019-08-01 13:45:51,358 logger INFO end 雪球
+2019-08-01 13:45:51,359 logger INFO waiting:14.89
+2019-08-01 13:46:06,250 logger INFO start 雪球
+2019-08-01 13:46:06,354 logger INFO end 雪球
+2019-08-01 13:46:06,355 logger INFO waiting:14.9
+2019-08-01 13:46:21,258 logger INFO start 雪球
+2019-08-01 13:46:21,359 logger INFO end 雪球
+2019-08-01 13:46:21,360 logger INFO waiting:14.9
+2019-08-01 13:46:36,260 logger INFO start 雪球
+2019-08-01 13:46:36,412 logger INFO end 雪球
+2019-08-01 13:46:36,412 logger INFO waiting:14.85
+2019-08-01 13:46:51,263 logger INFO start 雪球
+2019-08-01 13:46:51,368 logger INFO end 雪球
+2019-08-01 13:46:51,369 logger INFO waiting:14.89
+2019-08-01 13:47:06,260 logger INFO start 雪球
+2019-08-01 13:47:06,369 logger INFO end 雪球
+2019-08-01 13:47:06,370 logger INFO waiting:14.89
+2019-08-01 13:47:21,261 logger INFO start 雪球
+2019-08-01 13:47:21,369 logger INFO end 雪球
+2019-08-01 13:47:21,369 logger INFO waiting:14.89
+2019-08-01 13:47:36,261 logger INFO start 雪球
+2019-08-01 13:47:36,375 logger INFO end 雪球
+2019-08-01 13:47:36,376 logger INFO waiting:14.89
+2019-08-01 13:47:51,268 logger INFO start 雪球
+2019-08-01 13:47:51,390 logger INFO end 雪球
+2019-08-01 13:47:51,391 logger INFO waiting:14.88
+2019-08-01 13:48:06,274 logger INFO start 雪球
+2019-08-01 13:48:06,377 logger INFO end 雪球
+2019-08-01 13:48:06,378 logger INFO waiting:14.9
+2019-08-01 13:48:21,278 logger INFO start 雪球
+2019-08-01 13:48:21,379 logger INFO end 雪球
+2019-08-01 13:48:21,380 logger INFO waiting:14.9
+2019-08-01 13:48:36,280 logger INFO start 雪球
+2019-08-01 13:48:36,384 logger INFO end 雪球
+2019-08-01 13:48:36,384 logger INFO waiting:14.9
+2019-08-01 13:48:51,285 logger INFO start 雪球
+2019-08-01 13:48:51,388 logger INFO end 雪球
+2019-08-01 13:48:51,389 logger INFO waiting:14.9
+2019-08-01 13:49:06,289 logger INFO start 雪球
+2019-08-01 13:49:06,424 logger INFO end 雪球
+2019-08-01 13:49:06,431 logger INFO waiting:14.87
+2019-08-01 13:49:21,317 logger INFO start 雪球
+2019-08-01 13:49:21,416 logger INFO end 雪球
+2019-08-01 13:49:21,416 logger INFO waiting:14.9
+2019-08-01 13:49:36,318 logger INFO start 雪球
+2019-08-01 13:49:36,427 logger INFO end 雪球
+2019-08-01 13:49:36,427 logger INFO waiting:14.89
+2019-08-01 13:49:51,319 logger INFO start 雪球
+2019-08-01 13:49:51,434 logger INFO end 雪球
+2019-08-01 13:49:51,436 logger INFO waiting:14.89
+2019-08-01 13:50:06,327 logger INFO start 雪球
+2019-08-01 13:50:06,428 logger INFO end 雪球
+2019-08-01 13:50:06,428 logger INFO waiting:14.9
+2019-08-01 13:50:21,330 logger INFO start 雪球
+2019-08-01 13:50:21,430 logger INFO end 雪球
+2019-08-01 13:50:21,431 logger INFO waiting:14.9
+2019-08-01 13:50:36,332 logger INFO start 雪球
+2019-08-01 13:50:36,447 logger INFO end 雪球
+2019-08-01 13:50:36,448 logger INFO waiting:14.88
+2019-08-01 13:50:51,329 logger INFO start 雪球
+2019-08-01 13:50:51,434 logger INFO end 雪球
+2019-08-01 13:50:51,436 logger INFO waiting:14.89
+2019-08-01 13:51:06,328 logger INFO start 雪球
+2019-08-01 13:51:06,428 logger INFO end 雪球
+2019-08-01 13:51:06,429 logger INFO waiting:14.9
+2019-08-01 13:51:21,330 logger INFO start 雪球
+2019-08-01 13:51:21,436 logger INFO end 雪球
+2019-08-01 13:51:21,437 logger INFO waiting:14.89
+2019-08-01 13:51:36,328 logger INFO start 雪球
+2019-08-01 13:51:36,441 logger INFO end 雪球
+2019-08-01 13:51:36,442 logger INFO waiting:14.89
+2019-08-01 13:51:51,334 logger INFO start 雪球
+2019-08-01 13:51:51,437 logger INFO end 雪球
+2019-08-01 13:51:51,438 logger INFO waiting:14.9
+2019-08-01 13:52:06,339 logger INFO start 雪球
+2019-08-01 13:52:06,553 logger INFO end 雪球
+2019-08-01 13:52:06,553 logger INFO waiting:14.79
+2019-08-01 13:52:21,344 logger INFO start 雪球
+2019-08-01 13:52:21,446 logger INFO end 雪球
+2019-08-01 13:52:21,447 logger INFO waiting:14.9
+2019-08-01 13:52:36,348 logger INFO start 雪球
+2019-08-01 13:52:36,458 logger INFO end 雪球
+2019-08-01 13:52:36,458 logger INFO waiting:14.89
+2019-08-01 13:52:51,350 logger INFO start 雪球
+2019-08-01 13:52:51,531 logger INFO end 雪球
+2019-08-01 13:52:51,531 logger INFO waiting:14.82
+2019-08-01 13:53:06,353 logger INFO start 雪球
+2019-08-01 13:53:06,464 logger INFO end 雪球
+2019-08-01 13:53:06,470 logger INFO waiting:14.89
+2019-08-01 13:53:21,361 logger INFO start 雪球
+2019-08-01 13:53:21,456 logger INFO end 雪球
+2019-08-01 13:53:21,456 logger INFO waiting:14.91
+2019-08-01 13:53:36,367 logger INFO start 雪球
+2019-08-01 13:53:36,468 logger INFO end 雪球
+2019-08-01 13:53:36,468 logger INFO waiting:14.9
+2019-08-01 13:53:51,369 logger INFO start 雪球
+2019-08-01 13:53:51,466 logger INFO end 雪球
+2019-08-01 13:53:51,466 logger INFO waiting:14.9
+2019-08-01 13:54:06,368 logger INFO start 雪球
+2019-08-01 13:54:06,464 logger INFO end 雪球
+2019-08-01 13:54:06,464 logger INFO waiting:14.9
+2019-08-01 13:54:21,366 logger INFO start 雪球
+2019-08-01 13:54:21,483 logger INFO end 雪球
+2019-08-01 13:54:21,484 logger INFO waiting:14.88
+2019-08-01 13:54:36,365 logger INFO start 雪球
+2019-08-01 13:54:36,461 logger INFO end 雪球
+2019-08-01 13:54:36,462 logger INFO waiting:14.9
+2019-08-01 13:54:51,366 logger INFO start 雪球
+2019-08-01 13:54:51,483 logger INFO end 雪球
+2019-08-01 13:54:51,484 logger INFO waiting:14.89
+2019-08-01 13:55:06,375 logger INFO start 雪球
+2019-08-01 13:55:06,473 logger INFO end 雪球
+2019-08-01 13:55:06,473 logger INFO waiting:14.9
+2019-08-01 13:55:21,374 logger INFO start 雪球
+2019-08-01 13:55:21,466 logger INFO end 雪球
+2019-08-01 13:55:21,466 logger INFO waiting:14.91
+2019-08-01 13:55:36,378 logger INFO start 雪球
+2019-08-01 13:55:36,483 logger INFO end 雪球
+2019-08-01 13:55:36,484 logger INFO waiting:14.9
+2019-08-01 13:55:51,387 logger INFO start 雪球
+2019-08-01 13:55:51,487 logger INFO end 雪球
+2019-08-01 13:55:51,487 logger INFO waiting:14.9
+2019-08-01 13:56:06,388 logger INFO start 雪球
+2019-08-01 13:56:06,490 logger INFO end 雪球
+2019-08-01 13:56:06,491 logger INFO waiting:14.9
+2019-08-01 13:56:21,392 logger INFO start 雪球
+2019-08-01 13:56:21,492 logger INFO end 雪球
+2019-08-01 13:56:21,492 logger INFO waiting:14.9
+2019-08-01 13:56:36,394 logger INFO start 雪球
+2019-08-01 13:56:36,498 logger INFO end 雪球
+2019-08-01 13:56:36,499 logger INFO waiting:14.9
+2019-08-01 13:56:51,400 logger INFO start 雪球
+2019-08-01 13:56:51,512 logger INFO end 雪球
+2019-08-01 13:56:51,512 logger INFO waiting:14.89
+2019-08-01 13:57:06,404 logger INFO start 雪球
+2019-08-01 13:57:06,535 logger INFO end 雪球
+2019-08-01 13:57:06,535 logger INFO waiting:14.87
+2019-08-01 13:57:21,406 logger INFO start 雪球
+2019-08-01 13:57:21,506 logger INFO end 雪球
+2019-08-01 13:57:21,506 logger INFO waiting:14.9
+2019-08-01 13:57:36,407 logger INFO start 雪球
+2019-08-01 13:57:36,508 logger INFO end 雪球
+2019-08-01 13:57:36,508 logger INFO waiting:14.9
+2019-08-01 13:57:51,409 logger INFO start 雪球
+2019-08-01 13:57:51,529 logger INFO end 雪球
+2019-08-01 13:57:51,531 logger INFO waiting:14.88
+2019-08-01 13:58:06,412 logger INFO start 雪球
+2019-08-01 13:58:06,525 logger INFO end 雪球
+2019-08-01 13:58:06,526 logger INFO waiting:14.89
+2019-08-01 13:58:21,417 logger INFO start 雪球
+2019-08-01 13:58:21,601 logger INFO end 雪球
+2019-08-01 13:58:21,601 logger INFO waiting:14.82
+2019-08-01 13:58:36,422 logger INFO start 雪球
+2019-08-01 13:58:36,521 logger INFO end 雪球
+2019-08-01 13:58:36,521 logger INFO waiting:14.9
+2019-08-01 13:58:51,422 logger INFO start 雪球
+2019-08-01 13:58:51,514 logger INFO end 雪球
+2019-08-01 13:58:51,514 logger INFO waiting:14.91
+2019-08-01 13:59:06,426 logger INFO start 雪球
+2019-08-01 13:59:06,532 logger INFO end 雪球
+2019-08-01 13:59:06,533 logger INFO waiting:14.89
+2019-08-01 13:59:21,424 logger INFO start 雪球
+2019-08-01 13:59:21,526 logger INFO end 雪球
+2019-08-01 13:59:21,526 logger INFO waiting:14.9
+2019-08-01 13:59:36,427 logger INFO start 雪球
+2019-08-01 13:59:36,535 logger INFO end 雪球
+2019-08-01 13:59:36,536 logger INFO waiting:14.89
+2019-08-01 13:59:51,427 logger INFO start 雪球
+2019-08-01 13:59:51,526 logger INFO end 雪球
+2019-08-01 13:59:51,527 logger INFO waiting:14.9
+2019-08-01 14:00:06,428 logger INFO start 雪球
+2019-08-01 14:00:06,522 logger INFO end 雪球
+2019-08-01 14:00:06,523 logger INFO waiting:14.91
+2019-08-01 14:00:21,434 logger INFO start 雪球
+2019-08-01 14:00:21,530 logger INFO end 雪球
+2019-08-01 14:00:21,531 logger INFO waiting:14.9
+2019-08-01 14:00:36,432 logger INFO start 雪球
+2019-08-01 14:00:36,532 logger INFO end 雪球
+2019-08-01 14:00:36,532 logger INFO waiting:14.9
+2019-08-01 14:00:51,434 logger INFO start 雪球
+2019-08-01 14:00:51,560 logger INFO end 雪球
+2019-08-01 14:00:51,561 logger INFO waiting:14.87
+2019-08-01 14:01:06,435 logger INFO start 雪球
+2019-08-01 14:01:06,542 logger INFO end 雪球
+2019-08-01 14:01:06,545 logger INFO waiting:14.89
+2019-08-01 14:01:21,437 logger INFO start 雪球
+2019-08-01 14:01:21,535 logger INFO end 雪球
+2019-08-01 14:01:21,536 logger INFO waiting:14.9
+2019-08-01 14:01:36,436 logger INFO start 雪球
+2019-08-01 14:01:36,534 logger INFO end 雪球
+2019-08-01 14:01:36,534 logger INFO waiting:14.9
+2019-08-01 14:01:51,435 logger INFO start 雪球
+2019-08-01 14:01:51,791 logger INFO end 雪球
+2019-08-01 14:01:51,791 logger INFO waiting:14.64
+2019-08-01 14:02:06,433 logger INFO start 雪球
+2019-08-01 14:02:06,534 logger INFO end 雪球
+2019-08-01 14:02:06,534 logger INFO waiting:14.9
+2019-08-01 14:02:21,436 logger INFO start 雪球
+2019-08-01 14:02:21,535 logger INFO end 雪球
+2019-08-01 14:02:21,536 logger INFO waiting:14.9
+2019-08-01 14:02:36,437 logger INFO start 雪球
+2019-08-01 14:02:36,532 logger INFO end 雪球
+2019-08-01 14:02:36,532 logger INFO waiting:14.9
+2019-08-01 14:02:51,434 logger INFO start 雪球
+2019-08-01 14:02:51,527 logger INFO end 雪球
+2019-08-01 14:02:51,527 logger INFO waiting:14.91
+2019-08-01 14:03:06,438 logger INFO start 雪球
+2019-08-01 14:03:06,551 logger INFO end 雪球
+2019-08-01 14:03:06,551 logger INFO waiting:14.89
+2019-08-01 14:03:21,443 logger INFO start 雪球
+2019-08-01 14:03:21,536 logger INFO end 雪球
+2019-08-01 14:03:21,536 logger INFO waiting:14.91
+2019-08-01 14:03:36,448 logger INFO start 雪球
+2019-08-01 14:03:36,551 logger INFO end 雪球
+2019-08-01 14:03:36,552 logger INFO waiting:14.9
+2019-08-01 14:03:51,453 logger INFO start 雪球
+2019-08-01 14:03:51,549 logger INFO end 雪球
+2019-08-01 14:03:51,550 logger INFO waiting:14.9
+2019-08-01 14:04:06,451 logger INFO start 雪球
+2019-08-01 14:04:06,555 logger INFO end 雪球
+2019-08-01 14:04:06,555 logger INFO waiting:14.9
+2019-08-01 14:04:21,456 logger INFO start 雪球
+2019-08-01 14:04:21,560 logger INFO end 雪球
+2019-08-01 14:04:21,561 logger INFO waiting:14.9
+2019-08-01 14:04:36,462 logger INFO start 雪球
+2019-08-01 14:04:36,578 logger INFO end 雪球
+2019-08-01 14:04:36,579 logger INFO waiting:14.88
+2019-08-01 14:04:51,460 logger INFO start 雪球
+2019-08-01 14:04:51,571 logger INFO end 雪球
+2019-08-01 14:04:51,571 logger INFO waiting:14.89
+2019-08-01 14:05:06,462 logger INFO start 雪球
+2019-08-01 14:05:06,563 logger INFO end 雪球
+2019-08-01 14:05:06,563 logger INFO waiting:14.9
+2019-08-01 14:05:21,465 logger INFO start 雪球
+2019-08-01 14:05:21,567 logger INFO end 雪球
+2019-08-01 14:05:21,568 logger INFO waiting:14.9
+2019-08-01 14:05:36,469 logger INFO start 雪球
+2019-08-01 14:05:36,637 logger INFO end 雪球
+2019-08-01 14:05:36,637 logger INFO waiting:14.83
+2019-08-01 14:05:51,468 logger INFO start 雪球
+2019-08-01 14:05:51,566 logger INFO end 雪球
+2019-08-01 14:05:51,567 logger INFO waiting:14.9
+2019-08-01 14:06:06,468 logger INFO start 雪球
+2019-08-01 14:06:06,610 logger INFO end 雪球
+2019-08-01 14:06:06,610 logger INFO waiting:14.86
+2019-08-01 14:06:21,472 logger INFO start 雪球
+2019-08-01 14:06:21,569 logger INFO end 雪球
+2019-08-01 14:06:21,570 logger INFO waiting:14.9
+2019-08-01 14:06:36,470 logger INFO start 雪球
+2019-08-01 14:06:36,562 logger INFO end 雪球
+2019-08-01 14:06:36,562 logger INFO waiting:14.91
+2019-08-01 14:06:51,474 logger INFO start 雪球
+2019-08-01 14:06:51,588 logger INFO end 雪球
+2019-08-01 14:06:51,602 logger INFO waiting:14.89
+2019-08-01 14:07:06,493 logger INFO start 雪球
+2019-08-01 14:07:06,591 logger INFO end 雪球
+2019-08-01 14:07:06,592 logger INFO waiting:14.9
+2019-08-01 14:07:21,493 logger INFO start 雪球
+2019-08-01 14:07:21,598 logger INFO end 雪球
+2019-08-01 14:07:21,598 logger INFO waiting:14.89
+2019-08-01 14:07:36,490 logger INFO start 雪球
+2019-08-01 14:07:36,595 logger INFO end 雪球
+2019-08-01 14:07:36,595 logger INFO waiting:14.89
+2019-08-01 14:07:51,487 logger INFO start 雪球
+2019-08-01 14:07:51,582 logger INFO end 雪球
+2019-08-01 14:07:51,583 logger INFO waiting:14.9
+2019-08-01 14:08:06,483 logger INFO start 雪球
+2019-08-01 14:08:06,607 logger INFO end 雪球
+2019-08-01 14:08:06,608 logger INFO waiting:14.88
+2019-08-01 14:08:21,489 logger INFO start 雪球
+2019-08-01 14:08:21,583 logger INFO end 雪球
+2019-08-01 14:08:21,583 logger INFO waiting:14.91
+2019-08-01 14:08:36,494 logger INFO start 雪球
+2019-08-01 14:08:36,664 logger INFO end 雪球
+2019-08-01 14:08:36,664 logger INFO waiting:14.83
+2019-08-01 14:08:51,495 logger INFO start 雪球
+2019-08-01 14:08:51,596 logger INFO end 雪球
+2019-08-01 14:08:51,597 logger INFO waiting:14.9
+2019-08-01 14:09:06,497 logger INFO start 雪球
+2019-08-01 14:09:06,605 logger INFO end 雪球
+2019-08-01 14:09:06,605 logger INFO waiting:14.89
+2019-08-01 14:09:21,497 logger INFO start 雪球
+2019-08-01 14:09:21,591 logger INFO end 雪球
+2019-08-01 14:09:21,593 logger INFO waiting:14.91
+2019-08-01 14:09:36,504 logger INFO start 雪球
+2019-08-01 14:09:36,598 logger INFO end 雪球
+2019-08-01 14:09:36,598 logger INFO waiting:14.91
+2019-08-01 14:09:51,510 logger INFO start 雪球
+2019-08-01 14:09:51,628 logger INFO end 雪球
+2019-08-01 14:09:51,629 logger INFO waiting:14.88
+2019-08-01 14:10:06,510 logger INFO start 雪球
+2019-08-01 14:10:06,609 logger INFO end 雪球
+2019-08-01 14:10:06,610 logger INFO waiting:14.9
+2019-08-01 14:10:21,511 logger INFO start 雪球
+2019-08-01 14:10:21,615 logger INFO end 雪球
+2019-08-01 14:10:21,616 logger INFO waiting:14.9
+2019-08-01 14:10:36,517 logger INFO start 雪球
+2019-08-01 14:10:36,613 logger INFO end 雪球
+2019-08-01 14:10:36,613 logger INFO waiting:14.9
+2019-08-01 14:10:51,515 logger INFO start 雪球
+2019-08-01 14:10:51,615 logger INFO end 雪球
+2019-08-01 14:10:51,615 logger INFO waiting:14.9
+2019-08-01 14:11:06,517 logger INFO start 雪球
+2019-08-01 14:11:06,618 logger INFO end 雪球
+2019-08-01 14:11:06,618 logger INFO waiting:14.9
+2019-08-01 14:11:21,519 logger INFO start 雪球
+2019-08-01 14:11:21,620 logger INFO end 雪球
+2019-08-01 14:11:21,620 logger INFO waiting:14.9
+2019-08-01 14:11:36,521 logger INFO start 雪球
+2019-08-01 14:11:36,620 logger INFO end 雪球
+2019-08-01 14:11:36,620 logger INFO waiting:14.9
+2019-08-01 14:11:51,521 logger INFO start 雪球
+2019-08-01 14:11:51,619 logger INFO end 雪球
+2019-08-01 14:11:51,620 logger INFO waiting:14.9
+2019-08-01 14:12:06,521 logger INFO start 雪球
+2019-08-01 14:12:06,617 logger INFO end 雪球
+2019-08-01 14:12:06,618 logger INFO waiting:14.9
+2019-08-01 14:12:21,519 logger INFO start 雪球
+2019-08-01 14:12:21,629 logger INFO end 雪球
+2019-08-01 14:12:21,630 logger INFO waiting:14.89
+2019-08-01 14:12:36,520 logger INFO start 雪球
+2019-08-01 14:12:36,632 logger INFO end 雪球
+2019-08-01 14:12:36,632 logger INFO waiting:14.89
+2019-08-01 14:12:51,523 logger INFO start 雪球
+2019-08-01 14:12:51,620 logger INFO end 雪球
+2019-08-01 14:12:51,621 logger INFO waiting:14.9
+2019-08-01 14:13:06,521 logger INFO start 雪球
+2019-08-01 14:13:06,617 logger INFO end 雪球
+2019-08-01 14:13:06,617 logger INFO waiting:14.9
+2019-08-01 14:13:21,518 logger INFO start 雪球
+2019-08-01 14:13:21,622 logger INFO end 雪球
+2019-08-01 14:13:21,622 logger INFO waiting:14.9
+2019-08-01 14:13:36,523 logger INFO start 雪球
+2019-08-01 14:13:36,619 logger INFO end 雪球
+2019-08-01 14:13:36,619 logger INFO waiting:14.9
+2019-08-01 14:13:51,521 logger INFO start 雪球
+2019-08-01 14:13:51,622 logger INFO end 雪球
+2019-08-01 14:13:51,622 logger INFO waiting:14.9
+2019-08-01 14:14:06,524 logger INFO start 雪球
+2019-08-01 14:14:06,624 logger INFO end 雪球
+2019-08-01 14:14:06,624 logger INFO waiting:14.9
+2019-08-01 14:14:21,526 logger INFO start 雪球
+2019-08-01 14:14:21,624 logger INFO end 雪球
+2019-08-01 14:14:21,625 logger INFO waiting:14.9
+2019-08-01 14:14:36,529 logger INFO start 雪球
+2019-08-01 14:14:36,658 logger INFO end 雪球
+2019-08-01 14:14:36,659 logger INFO waiting:14.87
+2019-08-01 14:14:51,530 logger INFO start 雪球
+2019-08-01 14:14:51,647 logger INFO end 雪球
+2019-08-01 14:14:51,647 logger INFO waiting:14.88
+2019-08-01 14:15:06,529 logger INFO start 雪球
+2019-08-01 14:15:06,658 logger INFO end 雪球
+2019-08-01 14:15:06,658 logger INFO waiting:14.87
+2019-08-01 14:15:21,529 logger INFO start 雪球
+2019-08-01 14:15:21,625 logger INFO end 雪球
+2019-08-01 14:15:21,627 logger INFO waiting:14.9
+2019-08-01 14:15:36,527 logger INFO start 雪球
+2019-08-01 14:15:36,645 logger INFO end 雪球
+2019-08-01 14:15:36,646 logger INFO waiting:14.89
+2019-08-01 14:15:51,539 logger INFO start 雪球
+2019-08-01 14:15:51,701 logger INFO end 雪球
+2019-08-01 14:15:51,702 logger INFO waiting:14.84
+2019-08-01 14:16:06,545 logger INFO start 雪球
+2019-08-01 14:16:06,653 logger INFO end 雪球
+2019-08-01 14:16:06,654 logger INFO waiting:14.89
+2019-08-01 14:16:21,546 logger INFO start 雪球
+2019-08-01 14:16:21,671 logger INFO end 雪球
+2019-08-01 14:16:21,678 logger INFO waiting:14.9
+2019-08-01 14:16:36,580 logger INFO start 雪球
+2019-08-01 14:16:36,695 logger INFO end 雪球
+2019-08-01 14:16:36,696 logger INFO waiting:14.88
+2019-08-01 14:16:51,576 logger INFO start 雪球
+2019-08-01 14:16:51,677 logger INFO end 雪球
+2019-08-01 14:16:51,678 logger INFO waiting:14.9
+2019-08-01 14:17:06,579 logger INFO start 雪球
+2019-08-01 14:17:06,692 logger INFO end 雪球
+2019-08-01 14:17:06,692 logger INFO waiting:14.89
+2019-08-01 14:17:21,583 logger INFO start 雪球
+2019-08-01 14:17:21,685 logger INFO end 雪球
+2019-08-01 14:17:21,686 logger INFO waiting:14.9
+2019-08-01 14:17:36,587 logger INFO start 雪球
+2019-08-01 14:17:36,759 logger INFO end 雪球
+2019-08-01 14:17:36,760 logger INFO waiting:14.83
+2019-08-01 14:17:51,590 logger INFO start 雪球
+2019-08-01 14:17:51,784 logger INFO end 雪球
+2019-08-01 14:17:51,784 logger INFO waiting:14.81
+2019-08-01 14:18:06,596 logger INFO start 雪球
+2019-08-01 14:18:06,704 logger INFO end 雪球
+2019-08-01 14:18:06,706 logger INFO waiting:14.89
+2019-08-01 14:18:21,598 logger INFO start 雪球
+2019-08-01 14:18:21,716 logger INFO end 雪球
+2019-08-01 14:18:21,717 logger INFO waiting:14.88
+2019-08-01 14:18:36,600 logger INFO start 雪球
+2019-08-01 14:18:36,710 logger INFO end 雪球
+2019-08-01 14:18:36,711 logger INFO waiting:14.89
+2019-08-01 14:18:51,602 logger INFO start 雪球
+2019-08-01 14:18:51,714 logger INFO end 雪球
+2019-08-01 14:18:51,714 logger INFO waiting:14.89
+2019-08-01 14:19:06,605 logger INFO start 雪球
+2019-08-01 14:19:06,713 logger INFO end 雪球
+2019-08-01 14:19:06,714 logger INFO waiting:14.89
+2019-08-01 14:19:21,605 logger INFO start 雪球
+2019-08-01 14:19:21,742 logger INFO end 雪球
+2019-08-01 14:19:21,742 logger INFO waiting:14.86
+2019-08-01 14:19:36,603 logger INFO start 雪球
+2019-08-01 14:19:36,723 logger INFO end 雪球
+2019-08-01 14:19:36,724 logger INFO waiting:14.88
+2019-08-01 14:19:51,605 logger INFO start 雪球
+2019-08-01 14:19:51,714 logger INFO end 雪球
+2019-08-01 14:19:51,714 logger INFO waiting:14.89
+2019-08-01 14:20:06,606 logger INFO start 雪球
+2019-08-01 14:20:06,706 logger INFO end 雪球
+2019-08-01 14:20:06,707 logger INFO waiting:14.9
+2019-08-01 14:20:21,607 logger INFO start 雪球
+2019-08-01 14:20:21,710 logger INFO end 雪球
+2019-08-01 14:20:21,710 logger INFO waiting:14.9
+2019-08-01 14:20:36,612 logger INFO start 雪球
+2019-08-01 14:20:36,708 logger INFO end 雪球
+2019-08-01 14:20:36,709 logger INFO waiting:14.9
+2019-08-01 14:20:51,611 logger INFO start 雪球
+2019-08-01 14:20:51,719 logger INFO end 雪球
+2019-08-01 14:20:51,720 logger INFO waiting:14.89
+2019-08-01 14:21:06,610 logger INFO start 雪球
+2019-08-01 14:21:06,756 logger INFO end 雪球
+2019-08-01 14:21:06,756 logger INFO waiting:14.85
+2019-08-01 14:21:21,607 logger INFO start 雪球
+2019-08-01 14:21:21,701 logger INFO end 雪球
+2019-08-01 14:21:21,702 logger INFO waiting:14.91
+2019-08-01 14:21:36,614 logger INFO start 雪球
+2019-08-01 14:21:36,727 logger INFO end 雪球
+2019-08-01 14:21:36,727 logger INFO waiting:14.89
+2019-08-01 14:21:51,619 logger INFO start 雪球
+2019-08-01 14:21:51,739 logger INFO end 雪球
+2019-08-01 14:21:51,739 logger INFO waiting:14.9
+2019-08-01 14:22:06,641 logger INFO start 雪球
+2019-08-01 14:22:06,744 logger INFO end 雪球
+2019-08-01 14:22:06,744 logger INFO waiting:14.9
+2019-08-01 14:22:21,646 logger INFO start 雪球
+2019-08-01 14:22:21,750 logger INFO end 雪球
+2019-08-01 14:22:21,750 logger INFO waiting:14.9
+2019-08-01 14:22:36,652 logger INFO start 雪球
+2019-08-01 14:22:36,758 logger INFO end 雪球
+2019-08-01 14:22:36,759 logger INFO waiting:14.89
+2019-08-01 14:22:51,650 logger INFO start 雪球
+2019-08-01 14:22:51,787 logger INFO end 雪球
+2019-08-01 14:22:51,792 logger INFO waiting:14.86
+2019-08-01 14:23:06,654 logger INFO start 雪球
+2019-08-01 14:23:06,759 logger INFO end 雪球
+2019-08-01 14:23:06,759 logger INFO waiting:14.89
+2019-08-01 14:23:21,651 logger INFO start 雪球
+2019-08-01 14:23:21,764 logger INFO end 雪球
+2019-08-01 14:23:21,764 logger INFO waiting:14.89
+2019-08-01 14:23:36,655 logger INFO start 雪球
+2019-08-01 14:23:36,796 logger INFO end 雪球
+2019-08-01 14:23:36,797 logger INFO waiting:14.86
+2019-08-01 14:23:51,658 logger INFO start 雪球
+2019-08-01 14:23:51,778 logger INFO end 雪球
+2019-08-01 14:23:51,778 logger INFO waiting:14.88
+2019-08-01 14:24:06,659 logger INFO start 雪球
+2019-08-01 14:24:06,763 logger INFO end 雪球
+2019-08-01 14:24:06,763 logger INFO waiting:14.9
+2019-08-01 14:24:21,664 logger INFO start 雪球
+2019-08-01 14:24:21,768 logger INFO end 雪球
+2019-08-01 14:24:21,768 logger INFO waiting:14.9
+2019-08-01 14:24:36,674 logger INFO start 雪球
+2019-08-01 14:24:36,784 logger INFO end 雪球
+2019-08-01 14:24:36,784 logger INFO waiting:14.9
+2019-08-01 14:24:51,686 logger INFO start 雪球
+2019-08-01 14:24:51,796 logger INFO end 雪球
+2019-08-01 14:24:51,796 logger INFO waiting:14.89
+2019-08-01 14:25:06,687 logger INFO start 雪球
+2019-08-01 14:25:06,788 logger INFO end 雪球
+2019-08-01 14:25:06,789 logger INFO waiting:14.9
+2019-08-01 14:25:21,691 logger INFO start 雪球
+2019-08-01 14:25:21,822 logger INFO end 雪球
+2019-08-01 14:25:21,822 logger INFO waiting:14.87
+2019-08-01 14:25:36,693 logger INFO start 雪球
+2019-08-01 14:25:36,823 logger INFO end 雪球
+2019-08-01 14:25:36,824 logger INFO waiting:14.87
+2019-08-01 14:25:51,694 logger INFO start 雪球
+2019-08-01 14:25:51,798 logger INFO end 雪球
+2019-08-01 14:25:51,798 logger INFO waiting:14.9
+2019-08-01 14:26:06,700 logger INFO start 雪球
+2019-08-01 14:26:06,820 logger INFO end 雪球
+2019-08-01 14:26:06,820 logger INFO waiting:14.88
+2019-08-01 14:26:21,701 logger INFO start 雪球
+2019-08-01 14:26:21,801 logger INFO end 雪球
+2019-08-01 14:26:21,803 logger INFO waiting:14.9
+2019-08-01 14:26:36,704 logger INFO start 雪球
+2019-08-01 14:26:36,806 logger INFO end 雪球
+2019-08-01 14:26:36,806 logger INFO waiting:14.9
+2019-08-01 14:26:51,708 logger INFO start 雪球
+2019-08-01 14:26:52,074 logger INFO end 雪球
+2019-08-01 14:26:52,074 logger INFO waiting:14.63
+2019-08-01 14:27:06,705 logger INFO start 雪球
+2019-08-01 14:27:06,808 logger INFO end 雪球
+2019-08-01 14:27:06,808 logger INFO waiting:14.9
+2019-08-01 14:27:21,710 logger INFO start 雪球
+2019-08-01 14:27:21,817 logger INFO end 雪球
+2019-08-01 14:27:21,817 logger INFO waiting:14.89
+2019-08-01 14:27:36,708 logger INFO start 雪球
+2019-08-01 14:27:36,823 logger INFO end 雪球
+2019-08-01 14:27:36,824 logger INFO waiting:14.88
+2019-08-01 14:27:51,708 logger INFO start 雪球
+2019-08-01 14:27:51,811 logger INFO end 雪球
+2019-08-01 14:27:51,811 logger INFO waiting:14.9
+2019-08-01 14:28:06,712 logger INFO start 雪球
+2019-08-01 14:28:06,811 logger INFO end 雪球
+2019-08-01 14:28:06,812 logger INFO waiting:14.9
+2019-08-01 14:28:21,713 logger INFO start 雪球
+2019-08-01 14:28:21,822 logger INFO end 雪球
+2019-08-01 14:28:21,822 logger INFO waiting:14.89
+2019-08-01 14:28:36,713 logger INFO start 雪球
+2019-08-01 14:28:36,826 logger INFO end 雪球
+2019-08-01 14:28:36,827 logger INFO waiting:14.89
+2019-08-01 14:28:51,718 logger INFO start 雪球
+2019-08-01 14:28:51,824 logger INFO end 雪球
+2019-08-01 14:28:51,825 logger INFO waiting:14.89
+2019-08-01 14:29:06,717 logger INFO start 雪球
+2019-08-01 14:29:06,844 logger INFO end 雪球
+2019-08-01 14:29:06,844 logger INFO waiting:14.87
+2019-08-01 14:29:21,716 logger INFO start 雪球
+2019-08-01 14:29:21,824 logger INFO end 雪球
+2019-08-01 14:29:21,825 logger INFO waiting:14.89
+2019-08-01 14:29:36,719 logger INFO start 雪球
+2019-08-01 14:29:36,822 logger INFO end 雪球
+2019-08-01 14:29:36,822 logger INFO waiting:14.9
+2019-08-01 14:29:51,723 logger INFO start 雪球
+2019-08-01 14:29:51,825 logger INFO end 雪球
+2019-08-01 14:29:51,826 logger INFO waiting:14.9
+2019-08-01 14:30:06,728 logger INFO start 雪球
+2019-08-01 14:30:06,834 logger INFO end 雪球
+2019-08-01 14:30:06,835 logger INFO waiting:14.89
+2019-08-01 14:30:21,726 logger INFO start 雪球
+2019-08-01 14:30:21,829 logger INFO end 雪球
+2019-08-01 14:30:21,830 logger INFO waiting:14.9
+2019-08-01 14:30:36,731 logger INFO start 雪球
+2019-08-01 14:30:36,840 logger INFO end 雪球
+2019-08-01 14:30:36,841 logger INFO waiting:14.89
+2019-08-01 14:30:51,734 logger INFO start 雪球
+2019-08-01 14:30:51,861 logger INFO end 雪球
+2019-08-01 14:30:51,862 logger INFO waiting:14.87
+2019-08-01 14:31:06,733 logger INFO start 雪球
+2019-08-01 14:31:06,831 logger INFO end 雪球
+2019-08-01 14:31:06,832 logger INFO waiting:14.9
+2019-08-01 14:31:21,733 logger INFO start 雪球
+2019-08-01 14:31:21,832 logger INFO end 雪球
+2019-08-01 14:31:21,833 logger INFO waiting:14.9
+2019-08-01 14:31:36,734 logger INFO start 雪球
+2019-08-01 14:31:36,841 logger INFO end 雪球
+2019-08-01 14:31:36,842 logger INFO waiting:14.89
+2019-08-01 14:31:51,733 logger INFO start 雪球
+2019-08-01 14:31:51,835 logger INFO end 雪球
+2019-08-01 14:31:51,835 logger INFO waiting:14.9
+2019-08-01 14:32:06,736 logger INFO start 雪球
+2019-08-01 14:32:06,848 logger INFO end 雪球
+2019-08-01 14:32:06,848 logger INFO waiting:14.89
+2019-08-01 14:32:21,739 logger INFO start 雪球
+2019-08-01 14:32:21,843 logger INFO end 雪球
+2019-08-01 14:32:21,844 logger INFO waiting:14.9
+2019-08-01 14:32:36,744 logger INFO start 雪球
+2019-08-01 14:32:36,849 logger INFO end 雪球
+2019-08-01 14:32:36,849 logger INFO waiting:14.9
+2019-08-01 14:32:51,750 logger INFO start 雪球
+2019-08-01 14:32:51,852 logger INFO end 雪球
+2019-08-01 14:32:51,852 logger INFO waiting:14.9
+2019-08-01 14:33:06,753 logger INFO start 雪球
+2019-08-01 14:33:06,865 logger INFO end 雪球
+2019-08-01 14:33:06,865 logger INFO waiting:14.89
+2019-08-01 14:33:21,756 logger INFO start 雪球
+2019-08-01 14:33:21,867 logger INFO end 雪球
+2019-08-01 14:33:21,867 logger INFO waiting:14.89
+2019-08-01 14:33:36,759 logger INFO start 雪球
+2019-08-01 14:33:36,858 logger INFO end 雪球
+2019-08-01 14:33:36,859 logger INFO waiting:14.9
+2019-08-01 14:33:51,760 logger INFO start 雪球
+2019-08-01 14:33:51,868 logger INFO end 雪球
+2019-08-01 14:33:51,869 logger INFO waiting:14.89
+2019-08-01 14:34:06,760 logger INFO start 雪球
+2019-08-01 14:34:06,864 logger INFO end 雪球
+2019-08-01 14:34:06,864 logger INFO waiting:14.9
+2019-08-01 14:34:21,765 logger INFO start 雪球
+2019-08-01 14:34:21,869 logger INFO end 雪球
+2019-08-01 14:34:21,869 logger INFO waiting:14.9
+2019-08-01 14:34:36,771 logger INFO start 雪球
+2019-08-01 14:34:36,872 logger INFO end 雪球
+2019-08-01 14:34:36,872 logger INFO waiting:14.9
+2019-08-01 14:34:51,773 logger INFO start 雪球
+2019-08-01 14:34:51,876 logger INFO end 雪球
+2019-08-01 14:34:51,877 logger INFO waiting:14.9
+2019-08-01 14:35:06,779 logger INFO start 雪球
+2019-08-01 14:35:06,883 logger INFO end 雪球
+2019-08-01 14:35:06,884 logger INFO waiting:14.9
+2019-08-01 14:35:21,784 logger INFO start 雪球
+2019-08-01 14:35:21,893 logger INFO end 雪球
+2019-08-01 14:35:21,894 logger INFO waiting:14.89
+2019-08-01 14:35:36,786 logger INFO start 雪球
+2019-08-01 14:35:36,891 logger INFO end 雪球
+2019-08-01 14:35:36,892 logger INFO waiting:14.9
+2019-08-01 14:35:51,794 logger INFO start 雪球
+2019-08-01 14:35:51,904 logger INFO end 雪球
+2019-08-01 14:35:51,904 logger INFO waiting:14.89
+2019-08-01 14:36:06,795 logger INFO start 雪球
+2019-08-01 14:36:06,904 logger INFO end 雪球
+2019-08-01 14:36:06,904 logger INFO waiting:14.89
+2019-08-01 14:36:21,795 logger INFO start 雪球
+2019-08-01 14:36:21,896 logger INFO end 雪球
+2019-08-01 14:36:21,897 logger INFO waiting:14.9
+2019-08-01 14:36:36,798 logger INFO start 雪球
+2019-08-01 14:36:36,910 logger INFO end 雪球
+2019-08-01 14:36:36,910 logger INFO waiting:14.89
+2019-08-01 14:36:51,800 logger INFO start 雪球
+2019-08-01 14:36:51,902 logger INFO end 雪球
+2019-08-01 14:36:51,903 logger INFO waiting:14.9
+2019-08-01 14:37:06,803 logger INFO start 雪球
+2019-08-01 14:37:06,903 logger INFO end 雪球
+2019-08-01 14:37:06,903 logger INFO waiting:14.9
+2019-08-01 14:37:21,805 logger INFO start 雪球
+2019-08-01 14:37:21,917 logger INFO end 雪球
+2019-08-01 14:37:21,918 logger INFO waiting:14.89
+2019-08-01 14:37:36,808 logger INFO start 雪球
+2019-08-01 14:37:36,914 logger INFO end 雪球
+2019-08-01 14:37:36,915 logger INFO waiting:14.89
+2019-08-01 14:37:51,807 logger INFO start 雪球
+2019-08-01 14:37:51,915 logger INFO end 雪球
+2019-08-01 14:37:51,915 logger INFO waiting:14.89
+2019-08-01 14:38:06,807 logger INFO start 雪球
+2019-08-01 14:38:06,914 logger INFO end 雪球
+2019-08-01 14:38:06,914 logger INFO waiting:14.89
+2019-08-01 14:38:21,807 logger INFO start 雪球
+2019-08-01 14:38:21,906 logger INFO end 雪球
+2019-08-01 14:38:21,907 logger INFO waiting:14.9
+2019-08-01 14:38:36,808 logger INFO start 雪球
+2019-08-01 14:38:36,934 logger INFO end 雪球
+2019-08-01 14:38:36,934 logger INFO waiting:14.87
+2019-08-01 14:38:51,806 logger INFO start 雪球
+2019-08-01 14:38:51,921 logger INFO end 雪球
+2019-08-01 14:38:51,922 logger INFO waiting:14.88
+2019-08-01 14:39:06,804 logger INFO start 雪球
+2019-08-01 14:39:06,922 logger INFO end 雪球
+2019-08-01 14:39:06,922 logger INFO waiting:14.88
+2019-08-01 14:39:21,804 logger INFO start 雪球
+2019-08-01 14:39:21,911 logger INFO end 雪球
+2019-08-01 14:39:21,912 logger INFO waiting:14.89
+2019-08-01 14:39:36,803 logger INFO start 雪球
+2019-08-01 14:39:36,907 logger INFO end 雪球
+2019-08-01 14:39:36,907 logger INFO waiting:14.9
+2019-08-01 14:39:51,809 logger INFO start 雪球
+2019-08-01 14:39:51,963 logger INFO end 雪球
+2019-08-01 14:39:51,964 logger INFO waiting:14.85
+2019-08-01 14:40:06,815 logger INFO start 雪球
+2019-08-01 14:40:06,915 logger INFO end 雪球
+2019-08-01 14:40:06,915 logger INFO waiting:14.9
+2019-08-01 14:40:21,817 logger INFO start 雪球
+2019-08-01 14:40:21,966 logger INFO end 雪球
+2019-08-01 14:40:21,967 logger INFO waiting:14.85
+2019-08-01 14:40:36,821 logger INFO start 雪球
+2019-08-01 14:40:37,030 logger INFO end 雪球
+2019-08-01 14:40:37,030 logger INFO waiting:14.79
+2019-08-01 14:40:51,822 logger INFO start 雪球
+2019-08-01 14:40:51,921 logger INFO end 雪球
+2019-08-01 14:40:51,921 logger INFO waiting:14.9
+2019-08-01 14:41:06,822 logger INFO start 雪球
+2019-08-01 14:41:06,934 logger INFO end 雪球
+2019-08-01 14:41:06,934 logger INFO waiting:14.89
+2019-08-01 14:41:21,825 logger INFO start 雪球
+2019-08-01 14:41:21,925 logger INFO end 雪球
+2019-08-01 14:41:21,925 logger INFO waiting:14.9
+2019-08-01 14:41:36,827 logger INFO start 雪球
+2019-08-01 14:41:36,932 logger INFO end 雪球
+2019-08-01 14:41:36,933 logger INFO waiting:14.89
+2019-08-01 14:41:51,824 logger INFO start 雪球
+2019-08-01 14:41:51,927 logger INFO end 雪球
+2019-08-01 14:41:51,927 logger INFO waiting:14.9
+2019-08-01 14:42:06,829 logger INFO start 雪球
+2019-08-01 14:42:06,952 logger INFO end 雪球
+2019-08-01 14:42:06,952 logger INFO waiting:14.88
+2019-08-01 14:42:21,834 logger INFO start 雪球
+2019-08-01 14:42:21,933 logger INFO end 雪球
+2019-08-01 14:42:21,933 logger INFO waiting:14.9
+2019-08-01 14:42:36,835 logger INFO start 雪球
+2019-08-01 14:42:37,023 logger INFO end 雪球
+2019-08-01 14:42:37,023 logger INFO waiting:14.81
+2019-08-01 14:42:51,835 logger INFO start 雪球
+2019-08-01 14:42:52,065 logger INFO end 雪球
+2019-08-01 14:42:52,071 logger INFO waiting:14.77
+2019-08-01 14:43:06,845 logger INFO start 雪球
+2019-08-01 14:43:07,032 logger INFO end 雪球
+2019-08-01 14:43:07,033 logger INFO waiting:14.81
+2019-08-01 14:43:21,844 logger INFO start 雪球
+2019-08-01 14:43:21,964 logger INFO end 雪球
+2019-08-01 14:43:21,964 logger INFO waiting:14.88
+2019-08-01 14:43:36,845 logger INFO start 雪球
+2019-08-01 14:43:36,949 logger INFO end 雪球
+2019-08-01 14:43:36,949 logger INFO waiting:14.9
+2019-08-01 14:43:51,851 logger INFO start 雪球
+2019-08-01 14:43:52,028 logger INFO end 雪球
+2019-08-01 14:43:52,028 logger INFO waiting:14.82
+2019-08-01 14:44:06,849 logger INFO start 雪球
+2019-08-01 14:44:06,956 logger INFO end 雪球
+2019-08-01 14:44:06,957 logger INFO waiting:14.89
+2019-08-01 14:44:21,850 logger INFO start 雪球
+2019-08-01 14:44:21,961 logger INFO end 雪球
+2019-08-01 14:44:21,961 logger INFO waiting:14.89
+2019-08-01 14:44:36,852 logger INFO start 雪球
+2019-08-01 14:44:36,963 logger INFO end 雪球
+2019-08-01 14:44:36,964 logger INFO waiting:14.89
+2019-08-01 14:44:51,856 logger INFO start 雪球
+2019-08-01 14:44:51,970 logger INFO end 雪球
+2019-08-01 14:44:51,970 logger INFO waiting:14.89
+2019-08-01 14:45:06,862 logger INFO start 雪球
+2019-08-01 14:45:07,011 logger INFO end 雪球
+2019-08-01 14:45:07,011 logger INFO waiting:14.85
+2019-08-01 14:45:21,863 logger INFO start 雪球
+2019-08-01 14:45:21,978 logger INFO end 雪球
+2019-08-01 14:45:21,978 logger INFO waiting:14.88
+2019-08-01 14:45:36,859 logger INFO start 雪球
+2019-08-01 14:45:36,969 logger INFO end 雪球
+2019-08-01 14:45:36,969 logger INFO waiting:14.89
+2019-08-01 14:45:51,860 logger INFO start 雪球
+2019-08-01 14:45:51,966 logger INFO end 雪球
+2019-08-01 14:45:51,967 logger INFO waiting:14.89
+2019-08-01 14:46:06,858 logger INFO start 雪球
+2019-08-01 14:46:07,006 logger INFO end 雪球
+2019-08-01 14:46:07,007 logger INFO waiting:14.85
+2019-08-01 14:46:21,858 logger INFO start 雪球
+2019-08-01 14:46:21,960 logger INFO end 雪球
+2019-08-01 14:46:21,960 logger INFO waiting:14.9
+2019-08-01 14:46:36,862 logger INFO start 雪球
+2019-08-01 14:46:36,989 logger INFO end 雪球
+2019-08-01 14:46:36,989 logger INFO waiting:14.87
+2019-08-01 14:46:51,860 logger INFO start 雪球
+2019-08-01 14:46:51,973 logger INFO end 雪球
+2019-08-01 14:46:51,973 logger INFO waiting:14.89
+2019-08-01 14:47:06,865 logger INFO start 雪球
+2019-08-01 14:47:06,989 logger INFO end 雪球
+2019-08-01 14:47:06,990 logger INFO waiting:14.88
+2019-08-01 14:47:21,871 logger INFO start 雪球
+2019-08-01 14:47:21,971 logger INFO end 雪球
+2019-08-01 14:47:21,971 logger INFO waiting:14.9
+2019-08-01 14:47:36,872 logger INFO start 雪球
+2019-08-01 14:47:36,981 logger INFO end 雪球
+2019-08-01 14:47:36,981 logger INFO waiting:14.89
+2019-08-01 14:47:51,872 logger INFO start 雪球
+2019-08-01 14:47:51,983 logger INFO end 雪球
+2019-08-01 14:47:51,984 logger INFO waiting:14.89
+2019-08-01 14:48:06,877 logger INFO start 雪球
+2019-08-01 14:48:07,008 logger INFO end 雪球
+2019-08-01 14:48:07,009 logger INFO waiting:14.87
