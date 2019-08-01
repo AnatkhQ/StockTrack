@@ -3,14 +3,7 @@
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
-
-CONFIG={
-    "host":"smtp.qq.com",
-    "encoding":"utf-8",
-    'username':"58296672@qq.com",
-    'password':'caiqzvztrbmwbijg',
-    'from':"58296672@qq.com"
-}
+from config import  EMAIL_CONFIG as CONFIG
 
 def send_email(to_email:str,text):
     if type(to_email) is str:
