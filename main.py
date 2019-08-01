@@ -7,4 +7,4 @@ from spider.ThreadRun import main as mainSpider
 #加载log
 import log
 
-# mainSpider()
+mainSpider()
